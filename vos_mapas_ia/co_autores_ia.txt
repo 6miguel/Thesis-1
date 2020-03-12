@@ -1,0 +1,82 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Documents>	score<Avg. pub. year>
+2	"abad, cristina l."	-0.3552	-0.5947	8	2	1	3	2016.3333
+10	"aguilar, josé."	0.6415	-0.4248	1	1	1	3	2016.3333
+22	"andaluz, víctor h."	-0.3362	0.9976	9	2	2	3	2014.3333
+31	"artés, mariano."	0.5751	0.0468	1	7	2	2	2015.5
+44	"baculima, fernando."	0.4995	-0.7302	2	3	2	2	2017
+56	"becerra-garcía, r. a."	-0.8967	0.6325	3	7	3	3	2015.6667
+81	"buenaño-fernández, diego."	-0.1634	-0.5074	2	2	2	2	2017.5
+84	"cabral, r j."	0.2238	0.2908	15	1	2	2	2017
+85	"cabrera, diego."	1.545	-0.0696	1	10	12	12	2016.5833
+88	"cadme, elizabeth."	0.1227	-1.1013	2	1	2	2	2015.5
+90	"cajo, ricardo."	-0.8582	0.1132	13	1	2	2	2015.5
+99	"carelli, ricardo."	-0.1113	1.0612	9	2	2	2	2013
+101	"carrera, enrique v."	0.5992	0.8481	6	1	2	2	2017
+116	"cerrada, mariela."	1.2832	-0.4162	1	11	13	13	2016.6154
+119	"chamba-eras, luis."	-0.93	-0.2159	10	2	3	3	2018
+125	"chicaiza, janneth."	0.1947	-0.8302	2	2	2	2	2014.5
+128	"chiluiza, katherine."	-0.7697	-0.8224	5	2	3	3	2014
+140	"coronel-romero, edison."	-1.1769	-0.0638	10	2	3	3	2018
+148	"cuevas-beltrán, f. r."	-0.4167	0.3961	3	7	2	2	2016
+164	"dias, paulo."	0.1192	0.0008	4	4	2	2	2016
+167	"dominguez-granda, luis."	0.4823	0.3272	14	1	2	2	2016.5
+170	"duflou, joost r."	-0	0.0001	16	0	0	2	2017
+184	"espinoza, mauricio."	0.2812	-0.4074	2	2	1	2	2013.5
+185	"esteve, manuel."	-0.1457	0.5415	11	2	2	2	2018
+192	"fernández-blanco, enrique."	-0.4086	-0.1384	7	3	2	2	2016
+194	"fernández-higuera, a."	-0.6093	0.5514	3	7	2	2	2016
+225	"garcía-bermúdez, rodolfo."	-0.5178	0.7814	3	7	2	2	2015
+228	"garcía-lagos, f."	-0.5988	0.2882	3	7	2	2	2016
+238	"goethals, peter l m."	0.5343	0.5325	14	1	2	2	2016.5
+301	"labanda-jaramillo, milton."	-1.1699	-0.3543	10	2	3	3	2018
+317	"li, chuan."	1.3262	0.3175	1	10	13	13	2016.6154
+319	"lillo-castellano, j.m."	0.3348	0.7957	6	1	2	2	2014.5
+325	"lopez, cindy pamela."	-0.0282	0.177	12	2	2	2	2019
+330	"luján-mora, sergio."	-0.0609	-0.7458	2	4	4	8	2017.625
+335	"luzardo, gonzalo."	-0.5971	-0.5149	5	3	2	2	2015.5
+340	"lópez-nores, martín."	-0	0	17	0	0	2	2016
+356	"mauricio, david."	0	-0.0001	18	0	0	2	2018.5
+380	"morales, j a."	0.2668	0.4951	15	1	2	2	2017
+383	"moreira, a paulo."	0.3105	0.0607	4	4	2	2	2016
+389	"moscoso-zea, oswaldo."	-0.0537	-0.354	2	1	1	2	2017.5
+415	"ochoa, daniel."	-0.3877	-0.3784	5	2	2	2	2017.5
+416	"ochoa, xavier."	-0.8803	-0.6012	5	2	3	5	2015
+420	"oliveira, miguel."	-0.0374	-0.1317	4	4	2	2	2016
+421	"ordoñez-ordoñez, pablo f."	0.0001	-0.0001	19	0	0	2	2018
+432	"pacheco, fannia."	1.1226	-0.0322	1	9	7	7	2016.5714
+435	"pajares, gonzalo."	0	0	20	0	0	2	2017
+438	"palau, carlos."	0.0585	0.6516	11	2	2	2	2018
+451	"pazos, alejandro."	-0.44	0.0867	7	3	2	2	2017
+457	"peláez, enrique."	-0.2142	-1.0144	8	2	2	2	2017.5
+469	"piedra, nelson."	0.3946	-1.0609	2	4	4	4	2015.25
+473	"plaza, douglas."	-1.0253	0.2538	13	1	2	2	2015.5
+481	"pérez, jennifer."	0	-0.0001	21	0	0	2	2018.5
+494	"ramírez-morales, iván."	-0.6092	-0.2344	7	3	2	2	2016
+498	"realpe, miguel."	-0.2232	-0.2426	5	1	1	2	2017.5
+509	"rivero, daniel."	-0.6313	-0.0027	7	3	2	2	2017
+511	"roberti, flavio."	-0.157	0.8243	9	2	2	2	2013
+523	"rodríguez-labrada, r."	-0.3795	0.6071	3	7	2	2	2016
+526	"rojo-álvarez, josé luis."	0.4338	1.1141	6	3	6	7	2015.2857
+537	"rueda, josé l."	-0.0001	-0.0001	22	0	0	2	2014.5
+552	"sanchez, rené-vinicio."	1.0005	0.6046	1	5	3	3	2016
+555	"sancho, fernando."	0.636	-0.186	1	5	2	2	2018
+560	"santos, víctor."	0.1423	-0.2435	4	4	2	2	2016
+561	"santórum, marco."	-0.2006	0.0346	12	2	2	2	2019
+563	"sappa, angel d."	0.3326	-0.1602	4	4	2	2	2016
+565	"saquicela, víctor."	0.3241	-0.6072	2	3	2	2	2017
+570	"segura, marco."	-0.2232	0.2557	12	2	2	2	2019
+576	"soguero-ruiz, cristina."	0.1593	0.9828	6	1	2	2	2014
+588	"sánchez, rené-vinicio."	0.899	-0.5687	1	10	7	7	2017.1429
+591	"sánchez-rodríguez, aminael."	0	-0	23	0	0	2	2017.5
+604	"terán, luis."	-0.0001	0	24	0	0	2	2017
+610	"torres, johnny."	-0.4623	-1.0416	8	3	3	3	2017.3333
+622	"vaca, carmen."	-0.404	-0.7858	8	3	2	2	2016.5
+627	"valente-de -oliveira, josé."	0.8902	-0.2293	1	8	5	5	2017
+637	"velázquez-mariño, m."	-0.7442	0.8607	3	7	3	3	2015.6667
+638	"velázquez-rodríguez, c."	-0.781	0.4019	3	7	2	2	2016
+643	"villegas-ch, w."	0.0718	-0.5173	2	2	2	2	2017.5
+651	"vásquez, rafael e."	0.7956	0.0621	1	8	3	3	2016.3333
+658	"yacchirema, diana."	0.017	0.4184	11	2	2	2	2018
+659	"yang, shuai."	0.472	-0.3876	1	1	1	2	2018.5
+667	"zhang, youmin."	0.0001	-0	25	0	0	2	2014.5
+668	"zurita, grover."	0.9145	0.3037	1	9	6	6	2016

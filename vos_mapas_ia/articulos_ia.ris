@@ -1,0 +1,3348 @@
+TY  - CONF
+T1  - Hybrid optimization proposal for the design of collective on-rotation operating irrigation networks
+A1  - Lapo, C Mireya.
+A1  - Pérez-García, Rafael.
+A1  - Izquierdo, Joaquín.
+A1  - Ayala-Cabrera, David.
+Y1  - 2017///
+KW  - Genetic algorithms
+KW  - irrigation on-rotation
+KW  - optimal network design
+KW  - optimization
+PB  - Elsevier B.V.
+JF  - Procedia Engineering
+VL  - 186
+SP  - 530
+EP  - 536
+DO  - 10.1016/j.proeng.2017.03.266
+UR  - http://dx.doi.org/10.1016/j.proeng.2017.03.266
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Lapo et al. - 2017 - Hybrid optimization proposal for the design of collective on-rotation operating irrigation networks.pdf
+ER  - 
+TY  - CONF
+T1  - Application of a Smart City Model to a Traditional University Campus with a Big Data Architecture : A Sustainable Smart Campus
+A1  - Villegas-ch, William.
+A1  - Palacios-pacheco, Xavier.
+A1  - Luján-Mora, Sergio.
+Y1  - 2019///
+KW  - Big data
+KW  - hadoop
+KW  - iot
+KW  - smart campus
+KW  - smart cities
+KW  - sustainability
+JF  - Sustainnability
+SP  - 1
+EP  - 28
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Villegas-ch, Palacios-pacheco, Luj - 2019 - Application of a Smart City Model to a Traditional University Campus with a Big Data Archite.pdf
+ER  - 
+TY  - CONF
+T1  - From flamingo dance to ( desirable ) drug discovery : a nature-inspired approach
+A1  - Sánchez-Rodríguez, Aminael.
+A1  - Pérez-Castillo, Yunierkis.
+A1  - C-schurer, Stephan C.
+A1  - Nicolotti, Orazio.
+A1  - Felice-Mangiatordi, Giuseppe.
+A1  - Borges, Fernanda.
+A1  - D-S-Cordeiro, Natalia M.
+A1  - Tejera, Eduardo.
+A1  - Medina-Franco, José L.
+A1  - Cruz-Monteagudo, Maykel.
+Y1  - 2017///
+KW  - Machine Learning
+KW  - multi-criteria virtual screening
+PB  - Elsevier Ltd
+JF  - Drug Discovery Today
+VL  - 6446
+IS  - 17
+DO  - 10.1016/j.drudis.2017.05.008
+UR  - http://dx.doi.org/10.1016/j.drudis.2017.05.008
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Sch et al. - 2017 - From flamingo dance to ( desirable ) drug discovery a nature-inspired approach.pdf
+ER  - 
+TY  - CONF
+T1  - Traffic sign segmentation and classification using statistical learning methods
+A1  - Lillo-Castellano, J.M.
+A1  - Mora-Jiménez, I.
+A1  - Figuera-Pozuelo, C.
+A1  - Rojo-Álvarez, José Luis.
+Y1  - 2014///
+KW  - Classification
+KW  - Driver support system
+KW  - Fourier descriptors
+KW  - Machine learning
+KW  - Traffic sign detection
+PB  - Elsevier
+JF  - Neurocomputing
+DO  - 10.1016/j.neucom.2014.11.026
+UR  - http://dx.doi.org/10.1016/j.neucom.2014.11.026
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Unknown - 2014 - Author ' s Accepted Manuscript.pdf
+ER  - 
+TY  - CONF
+T1  - Smoking activity recognition using a single wrist IMU and deep learning light
+A1  - Valarezo-Añazco, Edwin.
+A1  - Rivera-Lopez, Patricio.
+A1  - Byun, Kyungmin.
+A1  - Lee, Sangmin.
+A1  - Kim, Tae Seong.
+Y1  - 2018///
+KW  - Deep Learning
+KW  - IMU
+KW  - Machine learning
+KW  - Recurrent Neural Network
+KW  - Smart Band
+KW  - Smoking Gestures
+JF  - ACM International Conference Proceeding Series
+SP  - 6
+EP  - 11
+SN  - 9781450364027
+DO  - 10.1145/3193025.3193028
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Añazco et al. - 2018 - Smoking activity recognition using a single wrist IMU and deep learning light.pdf
+N2  - © 2018 Association for Computing Machinery. Smoking has a strongly relation with diseases such as lung cancer, chronic obstructive pulmonary disease, and coronary heart disease. To prevent smoking, there are various passive ways including warning stickers and electronic cigarettes. However, a smart and proactive methodology might be more effective and useful to break the smoking habit by automatically and actively providing feedbacks to smokers to promote their desire of quitting smoking. In this work, we propose such a smart and proactive system using a wrist band housing a single Inertial Measurement Unit (IMU) sensor, and a smartphone App. housing artificial intelligence based on Recurrent Neural Network (RNN). To detect the smoking puffs, the proposed system uses a two steps classification scheme: first, a General model categorizes measured activities into Activities Daily Living (ADL) and Hand Gestures Activity (HGA). Then an Expert model further categorizes HGAs into smoking, eating, and drinking. Our smoking activity recognition system recognizes smoking activity with an accuracy of 91.38% and provides an active vibration feedback to smokers.
+ER  - 
+TY  - CONF
+T1  - A statistical comparison of neuroclassifiers and feature selection methods for gearbox fault diagnosis under realistic conditions
+A1  - Pacheco, Fannia.
+A1  - Valente-de -Oliveira, José.
+A1  - Sánchez, René-vinicio.
+A1  - Cerrada, Mariela.
+A1  - Cabrera, Diego.
+A1  - Li, Chuan.
+A1  - Zurita, Grover.
+A1  - Artés, Mariano.
+Y1  - 2016///
+KW  - Classification
+KW  - Fault diagnosis
+KW  - Feature selection
+KW  - Gearbox
+KW  - Neural networks
+KW  - Statistic tests
+PB  - Elsevier
+JF  - Neurocomputing
+VL  - 194
+SP  - 192
+EP  - 206
+DO  - 10.1016/j.neucom.2016.02.028
+UR  - http://dx.doi.org/10.1016/j.neucom.2016.02.028
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pacheco et al. - 2016 - Neurocomputing A statistical comparison of neuroclassi fi ers and feature selection methods for gearbox fault di.pdf
+ER  - 
+TY  - CONF
+T1  - Complete low-cost implementation of a teleoperated control system for a humanoid robot
+A1  - Cela, Andrés.
+A1  - Yebes, Javier.
+A1  - Arroyo, Roberto.
+A1  - Bergasa, Luis M.
+A1  - Barea, Rafael.
+A1  - López, Elena.
+Y1  - 2013///
+KW  - Fuzzy balance control
+KW  - Humanoid robot
+KW  - Kalman filter
+KW  - Low-cost
+KW  - MechRc
+KW  - Teleoperation system
+KW  - ZigBee RF
+JF  - Sensors (Switzerland)
+VL  - 13
+IS  - 2
+SP  - 1385
+EP  - 1401
+CY  - Suiza
+DO  - 10.3390/s130201385
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cela et al. - 2013 - Complete low-cost implementation of a teleoperated control system for a humanoid robot.pdf
+N2  - Humanoid robotics is a field of a great research interest nowadays. This work implements a low-cost teleoperated system to control a humanoid robot, as a first step for further development and study of human motion and walking. A human suit is built, consisting of 8 sensors, 6 resistive linear potentiometers on the lower extremities and 2 digital accelerometers for the arms. The goal is to replicate the suit movements in a small humanoid robot. The data from the sensors is wirelessly transmitted via two ZigBee RF configurable modules installed on each device: the robot and the suit. Replicating the suit movements requires a robot stability control module to prevent falling down while executing different actions involving knees flexion. This is carried out via a feedback control system with an accelerometer placed on the robot's back. The measurement from this sensor is filtered using Kalman. In addition, a two input fuzzy algorithm controlling five servo motors regulates the robot balance. The humanoid robot is controlled by a medium capacity processor and a low computational cost is achieved for executing the different algorithms. Both hardware and software of the system are based on open platforms. The successful experiments carried out validate the implementation of the proposed teleoperated system.
+ER  - 
+TY  - CONF
+T1  - A review on data-driven fault severity assessment in rolling bearings
+A1  - Cerrada, Mariela.
+A1  - Sánchez, René-vinicio.
+A1  - Li, Chuan.
+A1  - Pacheco, Fannia.
+A1  - Cabrera, Diego.
+A1  - Valente-de -Oliveira, José.
+A1  - Vásquez, Rafael E.
+Y1  - 2018///
+KW  - Fault size
+PB  - Elsevier Ltd
+JF  - Mechanical Systems and Signal Processing
+VL  - 99
+SP  - 169
+EP  - 196
+DO  - 10.1016/j.ymssp.2017.06.012
+UR  - http://dx.doi.org/10.1016/j.ymssp.2017.06.012
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cerrada et al. - 2018 - A review on data-driven fault severity assessment in rolling bearings.pdf
+ER  - 
+TY  - CONF
+T1  - Data transferring model determination in robotic group
+A1  - Sergiyenko, O Yu.
+A1  - Ivanov, M V.
+A1  - Tyrsa, V V.
+A1  - Kartashov, V M.
+A1  - Rivas-López, M.
+A1  - Hernandez-Balbuena, D.
+A1  - Flores-Fuentes, W.
+A1  - Rodríguez-Quiñones, J C.
+A1  - Nieto-Hipolito, J I.
+A1  - Hernandez, W.
+A1  - Tchernykh, A.
+Y1  - 2016///
+KW  - Data transfer
+KW  - Vision System
+PB  - Elsevier B.V.
+JF  - Robotics and Autonomous Systems
+DO  - 10.1016/j.robot.2016.04.003
+UR  - http://dx.doi.org/10.1016/j.robot.2016.04.003
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Sergiyenko et al. - 2016 - Data transferring model determination in robotic group.pdf
+ER  - 
+TY  - CONF
+T1  - Characterization of a big data storage workload in the cloud
+A1  - Talluri, Sacheendra.
+A1  - Abad, Cristina L.
+A1  - Łuszczak, Alicja.
+A1  - Iosup, Alexandru.
+Y1  - 2019///
+JF  - ICPE 2019 - Proceedings of the 2019 ACM/SPEC International Conference on Performance Engineering
+SP  - 33
+EP  - 44
+SN  - 9781450362399
+DO  - 10.1145/3297663.3310302
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Talluri et al. - 2019 - Characterization of a big data storage workload in the cloud.pdf
+ER  - 
+TY  - CONF
+T1  - Una aproximación para la descripción semántica de requisitos para categorización docentes de investigadores Ecuatorianos
+A1  - Cadme, Elizabeth.
+A1  - Piedra, Nelson.
+Y1  - 2014///
+KW  - DATOS ENLAZADOS
+KW  - DATOS UNIVERSITARIOS
+KW  - METODOLOGIA
+KW  - ONTOLOGIA
+KW  - WEB SEMANTICA
+JF  - MASKANA, I+D+ingeniería 2014
+IS  - 2006
+SP  - 97
+EP  - 110
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cadme, Piedra - 2014 - Una aproximación para la descripción semántica de requisitos para categorización docentes de investigadores E.pdf
+N2  - La nueva generación de la Web, la Web Semántica, plantea potenciales oportunidades para dotar de significado a los contenidos Web. Las ontologías constituyen una de las principales herramientas para especificar explícitamente los conceptos de un dominio concreto, sus propiedades y sus relaciones; de manera que la información se publique en formatos que sean inteligibles automáticamente por agentes máquinas que pueden localizar y gestionar de forma precisa la información. En este trabajo se presenta un marco de trabajo para una red de ontologías para representar conceptos, atributos, operaciones y restricciones, en relación a los ítems curriculares que se usan en procesos nacionales de categorización de docentes universitarios ecuatorianos. En una primera parte se muestra el contexto del dominio, trabajos relacionados, luego se describe el proceso seguido, la abstracción del modelo ontológico y finalmente se presenta una ontología. Es una ontología de dominio debido a que proporciona el significado de los conceptos y sus relaciones dentro del dominio de ítems curriculares producidos por docentes universitarios, que son requisitos de los proceso de categorización docente universitaria en Ecuador. Palabras clave: Web semántica, datos enlazados, ontología, metodología, datos universitarios. ABSTRACT The new generation of the Web, the Semantic Web, poses potential opportunities to give meaning to web content. In this paper a framework is presented for ontology network to represent concepts, attributes, operations and restrictions related to curricular items used in national categorization processes of Ecuadorian university teachers. The first part of the paper describes the domain context and related work, the following the abstraction of the model is described, and finally ontology is presented. The domain ontology provides the concepts meaning and their relationships within the domain of curricular items produced by academics, which are requirements of university teaching categorization process in Ecuador.
+ER  - 
+TY  - CONF
+T1  - Improving OER websites for learners with disabilities
+A1  - Navarrete, Rosa.
+A1  - Luján-Mora, Sergio.
+Y1  - 2016///
+KW  - Accessibility
+KW  - Information architecture
+KW  - Open educational resources
+KW  - Usability
+KW  - User experience
+JF  - W4A 2016 - 13th Web for All Conference
+VL  - 18
+IS  - 1
+SN  - 9781450341387
+DO  - 10.1145/2899475.2899517
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Navarrete, Luján-Mora - 2016 - Improving OER websites for learners with disabilities.pdf
+N2  - Despite the inclusive vision of the OER initiative, the challenges faced by people with disabilities for accessing and using these educational resources are still being addressed. In this work, we present an OER website designed for enhancing the User Experience (UX) of learners with disabilities in the interaction within this website for searching and retrieval of resources according to their needs and preferences. This design is based on a framework previously developed that included the concepts of accessibility, information architecture, and usability as the main aspects for the UX. The personalization defined by a user for a better UX is stored for successive accesses, but it can be changed any moment. Copyright is held by the owner/author(s).
+ER  - 
+TY  - CONF
+T1  - Symmetrical Compression Distance for Arrhythmia Discrimination in Cloud-based Big-Data Services
+A1  - Lillo-Castellano, J.M.
+A1  - Mora-Jimenez, I.
+A1  - Mozos, R. Santiago.
+A1  - Chavarría-Asso, F.
+A1  - Cano-Gonzalez, A.
+A1  - García-Alberola, A.
+A1  - Rojo-Álvarez, José Luis.
+Y1  - 2015///
+KW  - Big Data
+JF  - IEEE Journal of Biomedical and Health Informatics
+IS  - March
+SP  - 1
+EP  - 11
+DO  - 10.1109/JBHI.2015.2412175
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Alvarez, Member - 2015 - Symmetrical Compression Distance for Arrhythmia Discrimination in Cloud-based Big-Data Services.pdf
+ER  - 
+TY  - CONF
+T1  - Implementación de una plataforma para análisis de datos un enfoque de big data y datamining
+A1  - Figueroa-Díaz, Roberth.
+A1  - Gutiérrez-de Mesa, José A.
+Y1  - 2016///
+KW  - Big Data
+KW  - Clasificación
+KW  - Clustering
+KW  - DataScience
+KW  - KDD
+KW  - Weka.
+JF  - Volumen 2 Aplicación de Tecnologías de la Información y Comunicaciones Avanzadas
+VL  - 2
+SP  - 341
+EP  - 348
+L1  - file:///Users/miguelcabrera/Dropbox/Thesis sections/Clasificacion de articulos/EP validos/Google45/Figuerora&Gutierrez(2016)Implementación de una plataforma para análisis de datos un enfoque de big data y datamining.pdf
+ER  - 
+TY  - CONF
+T1  - Prediction of acute toxicity of phenol derivatives using multiple linear regression approach for Tetrahymena pyriformis contaminant identification in a median-size database
+A1  - Dieguez-santana, Karel.
+A1  - Pham-the, Hai.
+A1  - Villegas-aguilar, Pedro J.
+A1  - Le-thi-thu, Huong.
+A1  - Castillo-garit, Juan A.
+A1  - Casañola-Martin, Gerardo M
+Y1  - 2016///
+KW  - Multiple linear regression
+JF  - Chemosphere
+VL  - 165
+SP  - 434
+EP  - 441
+DO  - 10.1016/j.chemosphere.2016.09.041
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Dieguez-santana et al. - 2016 - Chemosphere Prediction of acute toxicity of phenol derivatives using multiple linear regression approach.pdf
+ER  - 
+TY  - CONF
+T1  - Statistical nonlinear analysis for reliable promotion decision-making
+A1  - Soguero-Ruiz, Cristina.
+A1  - Gimeno-Blanes, Francisco Javier.
+A1  - Mora-jiménez, Inmaculada.
+A1  - Martínez-ruiz, Pilar.
+A1  - Rojo-álvarez, José Luis.
+Y1  - 2014///
+KW  - Decision support
+KW  - Nonlinear Methods
+PB  - Elsevier Inc.
+JF  - Digital Signal Processing
+VL  - 33
+SP  - 156
+EP  - 168
+DO  - 10.1016/j.dsp.2014.06.014
+UR  - http://dx.doi.org/10.1016/j.dsp.2014.06.014
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Soguero-ruiz et al. - 2014 - Statistical nonlinear analysis for reliable promotion decision-making.pdf
+ER  - 
+TY  - CONF
+T1  - A Hybrid Infrastructure of Enterprise Architecture and Business Intelligence & Analytics for Knowledge Management in Education
+A1  - Moscoso-zea, Oswaldo.
+A1  - Castro, Jorge.
+A1  - Paredes-gualtor, Joel.
+A1  - Luján-mora, Sergio.
+Y1  - 2019///
+KW  - Big Data
+KW  - business intelligence
+KW  - data warehouse
+KW  - educational
+JF  - IEEE Access
+IS  - c
+DO  - 10.1109/ACCESS.2019.2906343
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Moscoso-zea et al. - 2019 - A Hybrid Infrastructure of Enterprise Architecture and Business Intelligence & Analytics for Knowledge Manag.pdf
+ER  - 
+TY  - CONF
+T1  - Semantic catalogs for life cycle assessment data
+A1  - Kuczenski, Brandon.
+A1  - Davis, Christopher B.
+A1  - Rivela, Beatriz.
+A1  - Janowicz, Krzysztof.
+Y1  - 2016///
+KW  - Big Data
+KW  - Semantic Web
+KW  - life cycle assessment
+PB  - Elsevier Ltd
+JF  - Journal of Cleaner Production
+VL  - 137
+SP  - 1109
+EP  - 1117
+DO  - 10.1016/j.jclepro.2016.07.216
+UR  - http://dx.doi.org/10.1016/j.jclepro.2016.07.216
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Kuczenski et al. - 2016 - Semantic catalogs for life cycle assessment data.pdf
+ER  - 
+TY  - CONF
+T1  - A Cloud-Based Architecture for Robotics Virtual Laboratories
+A1  - Gómez-Chabla, Raquel.
+A1  - Real-avillés, Karina.
+A1  - Hidalgo, Jorge.
+Y1  - 2017///
+KW  - Robotics
+KW  - simulators
+KW  - virtual laboratories
+JF  - International Conference on Technologies and Innovation
+VL  - 1
+SP  - 227
+EP  - 238
+SN  - 9783319672830
+DO  - 10.1007/978-3-319-67283-0
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Raquel, Real-avil - Unknown - A Cloud-Based Architecture for Robotics Virtual Laboratories.pdf
+ER  - 
+TY  - CONF
+T1  - Use of a semantic learning repository to facilitate the creation of modern e-learning systems
+A1  - Ochoa, Xavier.
+A1  - Carrillo, Gladys.
+A1  - Cechinel, Cristian.
+Y1  - 2014///
+KW  - Learning object repositories
+KW  - Recommender systems
+KW  - Semantic web.
+JF  - ACM International Conference Proceeding Series
+SN  - 9781450328807
+DO  - 10.1145/2662253.2662345
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ochoa, Carrillo, Cechinel - 2014 - Use of a semantic learning repository to facilitate the creation of modern e-learning systems.pdf
+N2  - Copyright 2014 ACM. Learning Object Repositories (LOR) has been usually implemented as traditional document stores. In this paper we explain the design of a Semantic Learning Repository that expand the concept of LORs to include linked information of entities not usually referred as Learning Objects, but necessary for the implementation of more advance e-learning systems. To demonstrate the the usefulness of this new concept, this paper presents the design and evaluation of a Personalized Learning Path Recommender based on the Semantic Learning Repository. The main result obtained from the evaluation is that the inclusion of external information enables more accurate recommendations and these recommendations has a measurable impact on the student learning.
+ER  - 
+TY  - CONF
+T1  - Hybrid fuzzy MADM ranking procedure for better alternative discrimination
+A1  - Ferreira, Luciano.
+A1  - Borenstein, Denis.
+A1  - Santi, Everton.
+Y1  - 2016///
+KW  - ELECTRE
+KW  - Fuzzy MADM
+KW  - Industrial restructuring
+KW  - TOPSIS
+PB  - Elsevier
+JF  - Engineering Applications of Artificial Intelligence
+VL  - 50
+SP  - 71
+EP  - 82
+DO  - 10.1016/j.engappai.2015.12.012
+UR  - http://dx.doi.org/10.1016/j.engappai.2015.12.012
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ferreira, Borenstein, Santi - 2016 - Engineering Applications of Arti fi cial Intelligence Hybrid fuzzy MADM ranking procedure for bette.pdf
+ER  - 
+TY  - CONF
+T1  - SOPPIA: Social opportunistic intelligent ambient of learning.
+A1  - Vintimilla-Tapia, Paúl E.
+A1  - Bravo-Torres, Jack F.
+A1  - Gallegos-Segovia, Pablo L.
+A1  - Ordóñez-Morales, Esteban F.
+A1  - López-Nores, Martín.
+A1  - Blanco-Fernández, Yolanda.
+Y1  - 2017///
+JF  - Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2017
+SP  - 782
+EP  - 789
+SN  - 9781450349932
+DO  - 10.1145/3110025.3110081
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Vintimilla-Tapia et al. - 2017 - SOPPIA Social opportunistic intelligent ambient of learning.pdf
+N2  - © 2017 Association for Computing Machinery. Sporadic learning networks (SLNs) are networks of short duration, conformed for students, teachers and experts. They can be described as dynamic learning networks that facilitate the cooperative work among different users who share preferences. Through exchange of resources and knowledge, they implement a new social educational paradigm. Another important aspect is their creation-death nature, since their duration depends on the users needs. They are created when required and died when no longer used. In this article we present SOPPIA, an educational sporadic network that provides social learning and self-learning services. Social learning occurs through the creation of sporadic work groups, following the nature of SLNs; while self-learning is achieved through individual activities recommendation and the use of personalized virtual machines.
+ER  - 
+TY  - CONF
+T1  - SPELTA: An expert system to generate therapy plans for speech and language disorders
+A1  - Robles-Nykbaev, Vladimir E.
+A1  - López-Nores, Martín.
+A1  - Pazos-Arias, José J.
+A1  - Arévalo-Lucero, Daysi.
+Y1  - 2015///
+KW  - Clustering
+KW  - generation of therapy plans
+KW  - language therapy
+KW  - speech
+PB  - Elsevier Ltd
+JF  - EXPERT SYSTEMS WITH APPLICATIONS
+VL  - 42
+IS  - 21
+SP  - 7641
+EP  - 7651
+DO  - 10.1016/j.eswa.2015.06.011
+UR  - http://dx.doi.org/10.1016/j.eswa.2015.06.011
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Robles-bykbaev et al. - 2015 - Expert Systems with Applications SPELTA An expert system to generate therapy plans for speech and langua.pdf
+ER  - 
+TY  - CONF
+T1  - Towards a robotic knee exoskeleton control based on human motion intention through EEG and sEMGsignals
+A1  - Villa-parra, A C.
+A1  - Delisle-rodríguez, D.
+A1  - López-delis, A.
+A1  - Bastos-filho, T.
+A1  - Sagaró, R.
+A1  - Frizera-Neto, A.
+Y1  - 2015///
+KW  - Human-motion-intention
+KW  - Knee exoskeleton
+KW  - Pattern recognition
+JF  - Procedia Manufacturing
+VL  - 3
+IS  - Ahfe
+SP  - 1379
+EP  - 1386
+CY  - Brazil
+DO  - 10.1016/j.promfg.2015.07.296
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Villa-parra et al. - 2015 - Towards a robotic knee exoskeleton control based on human motion intention through EEG and sEMGsignals.pdf
+ER  - 
+TY  - CONF
+T1  - OER, estándares y tendencias
+A1  - Cueva, Samanta.
+A1  - Rodríguez, Germania.
+Y1  - 2010///
+KW  - Semantic web
+KW  - Social authorship
+JF  - RUSC. Universities and Knowledge Society Journal
+VL  - 7
+IS  - 1
+CY  - Barcelona
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cueva, Rodríguez - 2010 - OER, estándares y tendencias.pdf
+N2  - Resumen— Los términos Objetos de Aprendizaje (OA), Recursos Educativos Abiertos OER'S resultan de interés en muchos ámbitos sociales principalmente en el de la Educación Superior, principalmente porque constituyen una valiosa posibilidad de equidad o justicia social a través del acceso, aplicación y generación de conocimiento. Para que los OER'S logren aportar a sus diseñadores o usuarios todas sus ventajas y características tales como reusabilidad, accesibilidad, interoperabilidad y aplicabilidad en el marco de los objetivos planteados para su creación deben estar alineados a las tendencias y avances de la Sociedad como fin y la Tecnología como medio. El presente artículo presenta la investigación realizada por las autoras sobre tres aspectos seleccionados de la prospectiva actual de los OER'S estándares de accesibilidad, la incorporación de componentes socialesy la web semántica. La integración de herramientas sociales favorecen la intervención activa de los diseñadores y usuarios de los OER´S con lo cual se logra el aprendizaje colaborativo; además el proceso de creación de los OER´S es más rápido, facilitando el acceso de los mismos a través de buscadores que se encuentran enlazados a plataformas educativas y herramientas sociales (web 2.0). Así mismo el etiquetado social por parte de usuarios a los OER´S añaden metadatos descriptivos en los mismos; finalmente se debe considerar el uso de licencias de propiedad intelectual que permitan reconocer a los autores y reutilizar el material de forma abierta. Abstract— The terms Learning Objects (OA), Open Educational Resources OER's are of interest in many areas of society, mainly in higher education, mainly because they provide a valuable opportunity for equity or social justice through access, implementation and knowledge generation. For OER'S achievements provide designers and users all the advantages and features such as reusability, accessibility, interoperability, and applicability in the context of the objectives set for its creation must be aligned with the trends and developments in society as an end and Technology as a medium.
+ER  - 
+TY  - CONF
+T1  - Automatic detection of curved and straight crop rows from images in maize fields
+A1  - García-Santillan, Ivan D.
+A1  - Montalvo, Martín.
+A1  - Guerrero, Jose M.
+A1  - Pajares, Gonzalo.
+Y1  - 2017///
+KW  - Image segmentation
+KW  - Machine vision
+JF  - Biosystem Engineering
+VL  - 6
+DO  - 10.1016/j.biosystemseng.2017.01.013
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Garcı - 2017 - ScienceDirect Automatic detection of curved and straight crop rows from images in maize fields.pdf
+ER  - 
+TY  - CONF
+T1  - Fuzzy Logic-Based Energy Management System Design for Residential Grid-Connected Microgrids
+A1  - Arcos-aviles, Diego.
+A1  - Pascual, Julio.
+A1  - Marroyo, Luis.
+A1  - Sanchis, Pablo.
+A1  - Guinjoan, Francesc.
+Y1  - 2016///
+JF  - IEEE Transactions on Smart Grid
+VL  - 3053
+SP  - 1
+EP  - 14
+DO  - 10.1109/TSG.2016.2555245
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Arcos-aviles et al. - 2016 - Fuzzy Logic-Based Energy Management System Design for Residential Grid-Connected Microgrids.pdf
+ER  - 
+TY  - CONF
+T1  - Data-driven techniques for modelling the gross primary production of the páramo vegetation using climate data: Application in the Ecuadorian Andean region
+A1  - Minaya, Veronica.
+A1  - Corzo, Gerald A.
+A1  - Solomatine, Dimitri P.
+A1  - Mynett, Arthur E.
+Y1  - 2016///
+KW  - Artificial Neural Networks
+KW  - Model tree
+KW  - Surrogate model
+KW  - Vegetation models
+KW  - k-nearest neighbour
+PB  - Elsevier B.V.
+JF  - Ecological Informatics
+DO  - 10.1016/j.ecoinf.2016.12.002
+UR  - http://dx.doi.org/10.1016/j.ecoinf.2016.12.002
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Minaya et al. - 2016 - Ecological Informatics Data-driven techniques for modelling the gross primary production of the páramo vegetatio.pdf
+ER  - 
+TY  - CONF
+T1  - Resurgery clusters in Intensive Medicine
+A1  - Peixoto, Ricardo.
+A1  - Portela, Filipe.
+A1  - Pinto, Filipe.
+A1  - Filipe-Santos, Manuel.
+A1  - Machado, José.
+A1  - Abelha, António.
+A1  - Rua, Fernando.
+Y1  - 2016///
+KW  - clustering
+KW  - data mining
+KW  - intcare
+KW  - intensive care units
+KW  - intervention
+KW  - re-intervention
+PB  - The Author(s)
+JF  - Procedia - Procedia Computer Science
+VL  - 98
+SP  - 528
+EP  - 533
+SN  - 0000000000
+DO  - 10.1016/j.procs.2016.09.072
+UR  - http://dx.doi.org/10.1016/j.procs.2016.09.072
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Peixoto et al. - 2016 - Resurgery clusters in Intensive Medicine.pdf
+ER  - 
+TY  - CONF
+T1  - Literature Review of Data Mining Applications in Academic Libraries
+A1  - Siguenza-Guzman, Lorena.
+A1  - Saquicela, Victor.
+A1  - Avila-ordóñez, Elina.
+A1  - Vandewalle, Joos.
+A1  - Cattrysse, Dirk.
+Y1  - 2015///
+KW  - Academic libraries
+KW  - Bibliomining
+KW  - Data mining
+KW  - Literature review
+PB  - Elsevier Inc.
+JF  - The Journal of Academic Librarianship
+DO  - 10.1016/j.acalib.2015.06.007
+UR  - http://dx.doi.org/10.1016/j.acalib.2015.06.007
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Siguenza-guzman et al. - 2015 - The Journal of Academic Librarianship Literature Review of Data Mining Applications in Academic Librarie.pdf
+ER  - 
+TY  - CONF
+T1  - Optimizing presetting attributes by softcomputing techniques to improve tapered roller bearings working conditions
+A1  - Fernandez, Roberto.
+A1  - Lostado, Ruben.
+A1  - Santos, Ana A.
+A1  - Piedra, Nelson O.
+Y1  - 2018///
+KW  - Data mining classification techniques
+KW  - Design of experiments
+KW  - Double-row tapered roller bearing
+KW  - Finite elements method
+KW  - Model parameter tuning and evaluation
+KW  - cation techniques
+KW  - data mining classi fi
+KW  - design of experiments
+KW  - finite elements method
+PB  - Elsevier
+JF  - Advances in Engineering Software
+VL  - 123
+SP  - 13
+EP  - 24
+DO  - 10.1016/j.advengsoft.2018.05.005
+UR  - https://doi.org/10.1016/j.advengsoft.2018.05.005
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Fernandez et al. - 2018 - Advances in Engineering Software Optimizing presetting attributes by softcomputing techniques to improve taper.pdf
+ER  - 
+TY  - CONF
+T1  - Producing linked open data to describe scientific activity from researchers of Ecuadorian universities
+A1  - Cadme, Elizabeth.
+A1  - Piedra, Nelson.
+Y1  - 2017///
+KW  - interoperability
+KW  - linked data
+KW  - ontology
+KW  - open data
+KW  - open linked data
+KW  - university
+JF  - IEEE 37th Central America and Panama Convention (CONCAPAN XXXVII)
+CY  - Managua, Nicaragua
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cadme, Piedra - Unknown - Producing linked open data to describe scientific activity from researchers of Ecuadorian universities.pdf
+ER  - 
+TY  - CONF
+T1  - Data mining and opinion mining: A tool in educational context
+A1  - Peñafiel, Myriam.
+A1  - Vásquez, Stefanie.
+A1  - Vásquez, Diego.
+A1  - Zaldumbide, Juan.
+A1  - Luján-Mora, Sergio.
+Y1  - 2018///
+KW  - Data mining
+KW  - Educational data
+KW  - Method
+KW  - Opinion mining
+KW  - Sentiment analysis
+KW  - Text mining
+JF  - ACM International Conference Proceeding Series
+SP  - 74
+EP  - 78
+SN  - 9781450365383
+DO  - 10.1145/3274250.3274263
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Peñafiel et al. - 2018 - Data mining and opinion mining A tool in educational context.pdf
+N2  - © 2018 Association for Computing Machinery. The use of the web as a universal communication platform generates large volumes of data (Big data), which in many cases, need to be processed so that they can become useful knowledge in face of the sceptics who have doubts about the credibility of such information. The use of web data that comes from educational contexts needs to be addressed, since that large amount of unstructured information is not being valued, losing valuable information that can be used. To solve this problem, we propose the use of data mining techniques such as sentiment analysis to validate the information that comes from the educational platforms. The objective of this research is to propose a methodology that allows the user to apply sentiment analysis in a simple way, because although some researchers have done it, very few do with data in the educational context. The results obtained prove that the proposal can be used in similar cases.
+ER  - 
+TY  - CONF
+T1  - Noise-sensing using smartphones: Determining the right time to sample
+A1  - Zamora, Willian.
+A1  - Calafate, Carlos T.
+A1  - Cano, Juan Carlos.
+A1  - Manzoni, Pietro.
+Y1  - 2017///
+KW  - CrowdSensing
+KW  - Decision tree
+KW  - Noise sensing
+KW  - Smartphone
+KW  - Weka
+JF  - ACM International Conference Proceeding Series
+SP  - 196
+EP  - 200
+SN  - 9781450353007
+DO  - 10.1145/3151848.3151868
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Zamora et al. - 2017 - Noise-sensing using smartphones Determining the right time to sample.pdf
+N2  - © 2017 Association for Computing Machinery. In this paper, we propose to use smartphones as an environmental sensor to measure noise pollution. We focused our study on determining the precise context for the capture of environmental noise through smartphones, and performed an analysis of the impact that the sensing task collection will have on energy consumption. To this purpose, we define different contexts to determine whether adequate environment sampling conditions are met, and we then apply classification algorithms to generate the most accurate decisions trees automatically. An analysis of resource consumption requirements associated with the different trees obtained shows that, despite their high accuracy, the resource consumption levels were prohibitive for this kind of applications. Thus, we propose an alternative decision tree that maintains the accuracy levels of automatically generated trees while significantly reducing the resource consumption introduced by the latter. Experimental results show that our proposed decision tree can reduce the energetic impact of our target application by about 60% when compared to the optimum theoretical tree generated through automatic classification procedures.
+ER  - 
+TY  - CONF
+T1  - Automatic lightning stroke location on transmission lines using data mining and synchronized initial travelling
+A1  - Morales, J A.
+A1  - Anane, Z.
+A1  - Cabral, R J.
+Y1  - 2018///
+KW  - Big Data
+KW  - Big Data Analytics
+PB  - Elsevier B.V.
+JF  - Electric Power Systems Research
+SP  - 1
+EP  - 12
+DO  - 10.1016/j.epsr.2018.01.025
+UR  - http://dx.doi.org/10.1016/j.epsr.2018.01.025
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Morales, Anane, Cabral - 2018 - Automatic lightning stroke location on transmission lines using data mining and synchronized initial tra.pdf
+ER  - 
+TY  - CONF
+T1  - Support Vector Feature Selection for Early Detection of Anastomosis Leakage from Bag-of-Words in Electronic Health Records
+A1  - Soguero-ruiz, Cristina.
+A1  - Hindberg, Kristian.
+A1  - Rojo-álvarez, José Luis.
+A1  - Olav-Skrøvseth, Stein.
+A1  - Godtliebsen, Fred.
+A1  - Mortensen, Kim.
+A1  - Revhaug, Arthur.
+A1  - Lindsetmo, Rolv-ole.
+A1  - Magne-Augestad, Knut.
+A1  - Jenssen, Robert.
+Y1  - 2014///
+KW  - Feature Selection
+KW  - Support Vector Machine
+JF  - IEEE Journal of Biomedical and Health Informatics
+SP  - 1
+EP  - 12
+DO  - 10.1109/JBHI.2014.2361688
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Member et al. - 2014 - Support Vector Feature Selection for Early Detection of Anastomosis Leakage from Bag-of-Words in Electronic Healt.pdf
+ER  - 
+TY  - CONF
+T1  - Sentiment analysis on tweets related to infectious diseases in South America
+A1  - García-Díaz, José Antonio.
+A1  - Apolinario-Arzube, Oscar.
+A1  - Medina-Moreira, José.
+A1  - Luna-Aveiga, Harry.
+A1  - Lagos-Ortiz, Katty.
+A1  - Valencia-García, Rafael.
+Y1  - 2018///
+KW  - Infectious diseases
+KW  - Natural language processing
+KW  - Sentiment analysis
+JF  - ACM International Conference Proceeding Series
+SN  - 9781450365727
+DO  - 10.1145/3293614.3293647
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/García-Díaz et al. - 2018 - Sentiment analysis on tweets related to infectious diseases in South America.pdf
+ER  - 
+TY  - CONF
+T1  - Large-scale simultaneous market segment definition and mass appraisal T using decision tree learning for fiscal purposes
+A1  - Reyes-bueno, Fabián.
+A1  - García-samaniego, Juan Manuel.
+A1  - Sánchez-rodríguez, Aminael.
+Y1  - 2018///
+KW  - Machine learning
+PB  - Elsevier
+JF  - Land Use Policy
+VL  - 79
+SP  - 116
+EP  - 122
+DO  - 10.1016/j.landusepol.2018.08.012
+UR  - https://doi.org/10.1016/j.landusepol.2018.08.012
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Reyes-bueno, García-samaniego, Sánchez-rodríguez - 2018 - Land Use Policy Large-scale simultaneous market segment de fi nition and ma.pdf
+ER  - 
+TY  - CONF
+T1  - Modication of the random forest algorithm to avoid statistical dependence problems when classifying remote sensing imagery
+A1  - Cánovas-garcía, Fulgencio.
+A1  - Alonso-Sarría, Francisco.
+A1  - Gomariz-castillo, Francisco.
+A1  - Oñate-Valdivieso, Fernando.
+Y1  - 2017///
+KW  - Random forest
+KW  - Statistical independence
+PB  - Elsevier
+JF  - Computers and Geosciences
+DO  - 10.1016/j.cageo.2017.02.012
+UR  - http://dx.doi.org/10.1016/j.cageo.2017.02.012
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cánovas-garcía, Alonso-, Gomariz-castillo - 2017 - classifying remote sensing imagery Modi cation of the random forest algorithm to av.pdf
+ER  - 
+TY  - CONF
+T1  - A Survey on Fractional Order Control Techniques for Unmanned Aerial and Ground Vehicles
+A1  - Cajo, Ricardo.
+A1  - Mac, T H I Thoa.
+A1  - Plaza, Douglas.
+A1  - Copot, Cosmin.
+A1  - De-Keyser, Robain.
+A1  - Ionescu, Clara.
+Y1  - 2016///
+KW  - fractional order control techniques
+KW  - unmanned aerial vehicles (UAVs)
+PB  - IEEE
+JF  - IEEE Access
+VL  - 4
+SP  - 1
+EP  - 16
+DO  - 10.1109/ACCESS.2019.2918578
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cajo et al. - 2020 - A Survey on Fractional Order Control Techniques for Unmanned Aerial and Ground Vehicles.pdf
+ER  - 
+TY  - CONF
+T1  - Integration in industrial automation based on multi-agent systems using cultural algorithms for optimizing the coordination mechanisms
+A1  - Terán, Juan.
+A1  - Aguilar, José.
+A1  - Cerrada, Mariela.
+Y1  - 2017///
+KW  - Integration
+KW  - Multy-agent systems
+PB  - Elsevier B.V.
+JF  - Computers in Industry
+VL  - 91
+SP  - 11
+EP  - 23
+DO  - 10.1016/j.compind.2017.05.002
+UR  - http://dx.doi.org/10.1016/j.compind.2017.05.002
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Terán, Aguilar, Cerrada - 2017 - Computers in Industry Integration in industrial automation based on multi-agent systems using cultural.pdf
+ER  - 
+TY  - CONF
+T1  - Fuzzy modelling to identify key drivers of ecological water quality to support decision and policy making
+A1  - Eurie-Forio, Marie Anne .
+A1  - Mouton, Ans.
+A1  - Lock, Koen.
+A1  - Boets, Pieter.
+A1  - Thi-Hanh, Nguyen.
+A1  - Damanik-Ambarita, Naomi Minar.
+A1  - Sasha-Musonge, Peace Liz.
+A1  - Dominguez-granda, Luis.
+A1  - Goethals, Peter L M.
+Y1  - 2016///
+KW  - Decision support system
+KW  - Fuzzy Logic
+PB  - Elsevier Ltd
+JF  - Environmental Science and Policy
+DO  - 10.1016/j.envsci.2016.12.004
+UR  - http://dx.doi.org/10.1016/j.envsci.2016.12.004
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Anne et al. - 2016 - Environmental Science & Policy Fuzzy modelling to identify key drivers of ecological water quality to support decis.pdf
+ER  - 
+TY  - CONF
+T1  - Generating request streams on Big Data using clustered renewal processes
+A1  - Abad, Cristina L.
+A1  - Yuan, Mindi.
+A1  - Cai, Chris X.
+A1  - Lu, Yi.
+A1  - Roberts, Nathan.
+A1  - Campbell, Roy H.
+Y1  - 2013///
+KW  - Big Data
+KW  - Workload generation
+JF  - Performance Evaluation
+VL  - 70
+SP  - 704
+EP  - 719
+DO  - 10.1016/j.peva.2013.08.006
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Abad et al. - 2013 - Generating request streams on Big Data using clustered renewal processes.pdf
+ER  - 
+TY  - CONF
+T1  - Data Mining and Endocrine Diseases : A New Way to Classify ?
+A1  - Salazar, Juan.
+A1  - Espinoza, Cristobal.
+A1  - Mindiola, Andrés.
+A1  - Bermudez, Valmore.
+Y1  - 2018///
+KW  - Classification
+KW  - Data mining
+KW  - Diabetes
+KW  - Endocrine disease
+PB  - Elsevier Inc
+JF  - Archives of Medical Research
+SP  - 8
+EP  - 10
+DO  - 10.1016/j.arcmed.2018.08.005
+UR  - https://doi.org/10.1016/j.arcmed.2018.08.005
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Salazar et al. - 2018 - Data Mining and Endocrine Diseases A New Way to Classify.pdf
+ER  - 
+TY  - CONF
+T1  - Security enhancement through effective encrypted communication using ELK
+A1  - Sánchez, Marco.
+A1  - Urquiza, Luis.
+Y1  - 2019///
+KW  - Big data
+KW  - Security information
+KW  - Threats
+KW  - Vulnerabilities
+JF  - ACM International Conference Proceeding Series
+SP  - 88
+EP  - 92
+SN  - 9781450361866
+DO  - 10.1145/3322134.3322154
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Sánchez, Urquiza - 2019 - Security enhancement through effective encrypted communication using ELK.pdf
+ER  - 
+TY  - CONF
+T1  - A machine vision system applied to the teaching of mathematics for blind or visually impaired children
+A1  - Calderon, C. A.
+A1  - Guajala, Maria
+A1  - Lanchi, John
+A1  - Barba-Guaman, Luis
+A1  - Bermeo, Carlos
+A1  - Rivas-Echeverria, F.
+Y1  - 2019///
+KW  - Machine vision
+KW  - pattern matching
+KW  - visual impairment
+JF  - IEEE International Conference on Automation/23rd Congress of the Chilean Association of Automatic Control: Towards an Industry 4.0 - Proceedings
+SP  - 1
+EP  - 7
+SN  - 9781538655863
+DO  - 10.1109/ICA-ACCA.2018.8609818
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Calderon et al. - 2019 - A machine vision system applied to the teaching of mathematics for blind or visually impaired children.pdf
+N2  - This paper proposes the architecture and the procedure for the design and development of a new educational board game based on computer vision, which is an automated tutor oriented to special education institutions. For practical demonstration of the proposed system, we applied machine vision to educational board game focused on two-dimensional Braille math operations. Three tests were performed: 1) Test of performance of the machine vision based on cross-correlation algorithm, 2) Test of the algorithm that locates errors on the educational board game, and 3) Usability evaluation by visually impaired children and teachers at the Institute for Blind people Byron Eguiguren (Loja-Ecuador). As a result of 1), the average success rate is equal to 94.6%; as a result of 2), the algorithm locates 100% of possible errors; finally as a result of 3), aspects as interactivity, usability, likeability, and playability are met. These results indicate the high potential of the new application proposed of the machine vision systems; as a means for creating automated tutors applied to educational board games for visually impaired children, these teaching tools meet such characteristics as low-cost, fast and non-intrusive.
+ER  - 
+TY  - CONF
+T1  - Increase attractor capacity using an ensembled neural network
+A1  - González, Mario.
+A1  - Dominguez, David.
+A1  - Sánchez, Ángel.
+A1  - Rodríguez, Francisco B.
+Y1  - 2017///
+KW  - Network wiring cost
+JF  - Expert Systems With Applications
+VL  - 71
+SP  - 206
+EP  - 215
+DO  - 10.1016/j.eswa.2016.11.035
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/González et al. - 2017 - Increase attractor capacity using an ensembled neural network.pdf
+ER  - 
+TY  - CONF
+T1  - Are you a Good Driver ? A Data-driven Approach to Estimate Driving Style
+A1  - Silva-Feraud, Iván.
+A1  - Naranjo, José Eugenio.
+Y1  - 2019///
+KW  - Fuzzy logic
+KW  - aggressive driving style
+KW  - driver behaviors
+JF  - ICCMS 2019 Actas de la 11ª Conferencia Internacional sobre Modelado y Simulación por Computadora
+SP  - 1
+EP  - 7
+SN  - 9781450366199
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Feraud, Naranjo - 2019 - Are you a Good Driver A Data-driven Approach to Estimate Driving Style.pdf
+ER  - 
+TY  - CONF
+T1  - Reconocimiento en-línea de acciones humanas basado en patrones de RWE aplicado en ventanas dinámicas de momentos invariantes
+A1  - Romero-López, Dennis.
+A1  - Frizera-Neto, Anselmo.
+A1  - Freire-Bastos, Teodiano.
+Y1  - 2014///
+KW  - Mapas de profundidad
+KW  - reconocimiento de acciones humanas
+KW  - relative wavelet energy
+JF  - Revista Iberoamericana de Automática e Informática Industrial RIAI
+VL  - 11
+SP  - 202
+EP  - 211
+DO  - 10.1016/j.riai.2013.09.009
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/L, El - 2014 - ınea de acciones humanas basado en patrones Reconocimiento en-l´ de RWE aplicado en ventanas din´ amicas de momentos i.pdf
+ER  - 
+TY  - CONF
+T1  - Semantic architecture for the analysis of the academic and occupational profiles based on competencies
+A1  - González-Eras, Alexandra.
+A1  - Aguilar, José.
+Y1  - 2015///
+KW  - Competency
+KW  - Natural language processing
+KW  - Semantic measures
+JF  - Contemporary Engineering Sciences
+VL  - 8
+IS  - 33-36
+SP  - 1551
+EP  - 1563
+DO  - 10.12988/ces.2015.510282
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Eras, Aguilar - 2015 - Semantic architecture for the analysis of the academic and occupational profiles based on competencies.pdf
+N2  - © 2015 Alexandra González Eras and Jose Aguilar This research shows a semantic architecture for the extraction, comparison and feedback of professional and educational competencies. The main product is a scheme that facilitates the detection of competencies based on the skills and knowledge. The scheme carries out tasks of natural language processing and of similarity calculation, among others, in order to determine the differences among the professional and educational competencies.
+ER  - 
+TY  - CONF
+T1  - Smart motion detection sensor based on video processing using self-organizing maps
+A1  - Ortega-zamorano, Francisco.
+A1  - Molina-cabello, Miguel A.
+A1  - López-rubio, Ezequiel.
+A1  - Palomo, Esteban J.
+Y1  - 2016///
+KW  - Artificial Neural Networks
+KW  - Image processing
+KW  - Microcontroller
+PB  - Elsevier Ltd
+JF  - Expert Systems With Applications
+VL  - 64
+SP  - 476
+EP  - 489
+DO  - 10.1016/j.eswa.2016.08.010
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ortega-zamorano et al. - 2016 - Smart motion detection sensor based on video processing using self-organizing maps.pdf
+ER  - 
+TY  - CONF
+T1  - Passivity-based visual feedback control with dynamic compensation of mobile manipulators: Stability and L2-gain performance analysis
+A1  - Andaluz, Víctor H.
+A1  - Roberti, Flavio.
+A1  - Salinas, Lucio
+A1  - Toibero, Juan M.
+A1  - Carelli, Ricardo.
+Y1  - 2014///
+KW  - Non-linear control Visual
+KW  - Visual servoing
+PB  - Elsevier B.V.
+JF  - Robotics and Autonomous Systems
+DO  - 10.1016/j.robot.2014.12.009
+UR  - http://dx.doi.org/10.1016/j.robot.2014.12.009
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Andaluz et al. - Unknown - Passivity-based visual feedback control with dynamic compensation of mobile manipulators Stability and L 2 -.pdf
+ER  - 
+TY  - CONF
+T1  - Representation of Latin American University Syllabuses in a Semantic Network
+A1  - Tapia-León, Mariela.
+A1  - Chicaiza-Espinoza, Janneth.
+A1  - Carrera-Rivera, Abdon.
+A1  - Luján-Mora, Sergio.
+Y1  - 2017///
+KW  - semantic network
+KW  - syllabus.
+JF  - International Conference on Information Systems and Computer Science Representation
+SP  - 295
+EP  - 301
+SN  - 9781538626443
+DO  - 10.1109/INCISCOS.2017.28
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Luján-mora - 2017 - Representation of Latin American University Syllabuses in a Semantic Network.pdf
+ER  - 
+TY  - CONF
+T1  - Distributed decision-making algorithms with multiple manipulative actors
+A1  - Koorehdavoudi, Kasra.
+A1  - Roy, Sandip.
+A1  - Xue, Mengran.
+A1  - Abad-Torres, Jackeline.
+Y1  - 2019///
+KW  - Multi-agent systems
+PB  - Elsevier Ltd
+JF  - Automatica
+VL  - 107
+SP  - 317
+EP  - 326
+DO  - 10.1016/j.automatica.2019.05.063
+UR  - https://doi.org/10.1016/j.automatica.2019.05.063
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Koorehdavoudi et al. - 2019 - Automatica Distributed decision-making algorithms with multiple manipulative.pdf
+ER  - 
+TY  - CONF
+T1  - Facial emotion analysis in Down's syndrome children in classroom
+A1  - Torres-Carrión, Pablo.
+A1  - González-González, Carina.
+A1  - Mora-Carreño, Alberto.
+Y1  - 2015///
+KW  - AI
+KW  - Affective Computing
+KW  - Digital Learning
+KW  - Down Syndrome
+KW  - Emotion
+JF  - ACM International Conference Proceeding Series
+SN  - 9781450334631
+DO  - 10.1145/2829875.2829882
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Torres-Carrión, González-González, Carreño - 2015 - Facial emotion analysis in Down's syndrome children in classroom.pdf
+N2  - © 2015 ACM. Sentiment analysis has allowed a degree of machines "intelligent" interaction, although its development is still at an early stage. This document presents the progress of the research project in this line, with a particular focus on children with Down Syndrome (DS). Their singularities are considered through personalized learning resources, and interaction with Kinect HCI, and the Tango:H platform. In this first moment we made an initial interaction, resulting in video images of the interaction, and a subjective assessment of emotions through one extension of EMODIANA. The next step will be the comparison of the patterns of facial recognition applied in people without SD, to identify whether there are significant differences.
+ER  - 
+TY  - CONF
+T1  - A Bayesian approach to consequent parameter estimation in probabilistic fuzzy systems and its application to bearing fault classification
+A1  - Li, Chuan.
+A1  - Ledo, Luiz.
+A1  - Delgado, Myriam.
+A1  - Pacheco, Fannia.
+A1  - Cabrera, Diego.
+A1  - Cerrada, Mariela.
+A1  - Sánchez, René-vinicio.
+A1  - Valente-de -Oliveira, José.
+Y1  - 2017///
+KW  - Clustering
+KW  - Fuzzy System
+JF  - Knowledge-Based Systems
+DO  - 10.1016/j.knosys.2017.05.007
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Li et al. - 2017 - Accepted Manuscript.pdf
+ER  - 
+TY  - CONF
+T1  - MVMO for Optimal Reconfiguration in Smart Distribution Systems
+A1  - Rueda, José L.
+A1  - Loor, Rosana.
+A1  - Erlinch, Insván.
+Y1  - 2015///
+JF  - IFAC-PapersOnLine
+VL  - 48-30
+SP  - 276
+EP  - 281
+DO  - 10.1016/j.ifacol.2015.12.390
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Rueda - 2015 - ScienceDirect simulation simulation growth simulation for Optimal Reconfiguration in Distribution Systems for Optimal Rec.pdf
+ER  - 
+TY  - CONF
+T1  - Semi-Supervised Clustering Algorithms for Grouping Scientific Articles
+A1  - Vallejo-Huanga, Diego.
+A1  - Morillo, Paulina.
+A1  - Ferri, César.
+Y1  - 2017///
+KW  - Clustering with constraints
+KW  - K-Medoids
+KW  - Linear programming
+KW  - Size constraint
+JF  - Procedia Computer Science
+SP  - 325
+EP  - 334
+DO  - 10.1016/j.procs.2017.05.206
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Conference, Vallejo-huanga, Vallejo-huanga - 2017 - ScienceDirect Semi-Supervised Clustering Algorithms for Grouping Semi-Supervised Clu.pdf
+ER  - 
+TY  - CONF
+T1  - Input variable selection with a simple genetic algorithm for conceptual species distribution models: A case study of river pollution in Ecuador
+A1  - Gobeyn, Sacha.
+A1  - Volk, Martin.
+A1  - Dominguez-granda, Luis.
+A1  - Goethals, Peter L M.
+Y1  - 2017///
+KW  - Genetic algorithms
+KW  - conceptual species distribution models
+KW  - input variable selection
+PB  - Elsevier Ltd
+JF  - Environmental Modelling and Software
+VL  - 92
+SP  - 269
+EP  - 316
+DO  - 10.1016/j.envsoft.2017.02.012
+UR  - http://dx.doi.org/10.1016/j.envsoft.2017.02.012
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Gobeyn et al. - 2017 - Environmental Modelling & Software Input variable selection with a simple genetic algorithm for conceptual specie.pdf
+ER  - 
+TY  - CONF
+T1  - Factors to predict dropout at the Universities: A case of study in Ecuador
+A1  - Mayra, Alban.
+A1  - Mauricio, David.
+Y1  - 2018///
+KW  - Data mining
+KW  - factor
+KW  - university student desertion
+JF  - IEEE Global Engineering Education Conference, EDUCON
+SP  - 1238
+EP  - 1242
+SN  - 9781538629574
+DO  - 10.1109/EDUCON.2018.8363371
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Mayra, Mauricio - 2018 - Factors to predict dropout at the universities A case of study in Ecuador.pdf
+N2  - © 2018 IEEE. The dropout at the universities has become a concern in several countries around the world, its high rates generate negative consequences for students and organizations. Based on the analysis of the educative, organizational theories, and the logic reasoning were established 11 factors that influenced in the dropout. This research as an objective to design a model to determine new factors to predict the dropout in which the dimension of analysis were the students, the institutions, the academic context and the social and economic environment. Additionally, trying through the use of Logistical Regression, Decision Tree and Support Vector Machine if the proposed factors are related and or may contribute predicting the dropout at the universities of Ecuador.
+ER  - 
+TY  - CONF
+T1  - Detection of skin cancer 'Melanoma' through computer vision
+A1  - Cueva, Wilson F.
+A1  - Munoz, F.
+A1  - Vasquez, G.
+A1  - Delgado, G.
+Y1  - 2017///
+KW  - Artificial Intelligence
+KW  - Image Processing
+KW  - Melanoma
+KW  - Neural Networks
+JF  - Proceedings of the 2017 IEEE 24th International Congress on Electronics, Electrical Engineering and Computing, INTERCON 2017
+SP  - 1
+EP  - 4
+SN  - 9781509063628
+DO  - 10.1109/INTERCON.2017.8079674
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cueva et al. - 2017 - Detection of skin cancer 'Melanoma' through computer vision.pdf
+N2  - In the last decades, skin cancer increased its incidence becoming a public health problem. Technological advances have allowed the development of applications that help the early detection of melanoma. In this context, an image processing was developed to obtain Asymmetry, Border, Color, and Diameter (ABCD of melanoma). Using neural networks to perform a classification of the different kinds of moles. As a result, this algorithm developed after an analysis of 200 images was obtained a performance of 97.51%.
+ER  - 
+TY  - CONF
+T1  - Improvement of massive open online courses by text mining of students' emails: A case study
+A1  - Buenaño-Fernández, Diego.
+A1  - Luján-Mora, Sergio.
+A1  - Villegas-Ch, W.
+Y1  - 2017///
+KW  - Big Data
+KW  - MOOC
+KW  - Massive Open Online Course
+KW  - Opinion mining
+KW  - Supervised learning
+KW  - Text mining
+JF  - ACM International Conference Proceeding Series
+VL  - Part F1322
+SP  - 1
+EP  - 7
+SN  - 9781450353861
+DO  - 10.1145/3144826.3145393
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Buenaño-Fernández, Luján-Mora, Villegas-Ch - 2017 - Improvement of massive open online courses by text mining of students' emails A c.pdf
+N2  - © 2017 Association for Computing Machinery. In recent years, the constant increase in the number of online courses has led to radical changes in the education sector. These new online learning environments present a series of challenges that are difficult to manage using traditional methods. The challenges relate to the level of commitment and motivation shown by students on this type of course. Several articles have been identified from the analysed literature related to the application of text or opinion mining techniques for the analysis of comments made in social networks. In the educational field, articles related to the topic that focus on the analysis of opinion have been identified based on entries included in discussion forums for online courses. Many publications are geared towards solutions in the English language, and the nature of linguistic analysis of this type of study makes it necessary to adapt them for languages other than English. In this paper, we explore the opinion mining through text mining in emails from Massive Open Online Courses (MOOC). The opinion mining expressed in emails is a complex task due to the thematic disparity of emails, their size and the depth of linguistic analysis required. The purpose of this study is to analyse students opinions about their courses, their instructors, and the main tools used on the course. The research focus on the calculation and analysis of the frequency of terms, the analysis of concordances, groupings and n-grams. The case study used in this paper is a MOOC on the topic of web development with more than 40,000 enrolled students.
+ER  - 
+TY  - CONF
+T1  - A systematic review of fuzzy formalisms for bearing fault diagnosis
+A1  - Li, Chuan.
+A1  - Valente-de -Oliveira, José.
+A1  - Cerrada, Mariela.
+A1  - Cabrera, Diego.
+A1  - Sánchez, René Vinicio.
+A1  - Zurita, Grover.
+Y1  - 2018///
+KW  - fuzzy clustering
+KW  - fuzzy rules
+JF  - IEEE Transactions on Fuzzy Systems, Volumen: 27.
+SP  - 1
+EP  - 21
+DO  - 10.1109/TFUZZ.2018.2878200
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Li, Zurita - Unknown - A systematic review of fuzzy formalisms for bearing fault diagnosis.pdf
+ER  - 
+TY  - CONF
+T1  - Rules engine and complex event processor in the context of internet of T things for precision agriculture
+A1  - Mazon-Olivo, Bertha.
+A1  - Hernández-Rojas, Dixys.
+A1  - Maza-Salinas, José.
+A1  - Pan, Alberto.
+Y1  - 2018///
+KW  - Internet of Things (IoT)
+KW  - Precision Agriculture
+KW  - Real-time event processing
+KW  - Rules engine
+KW  - complex event processing
+KW  - internet of things
+KW  - precision agriculture
+PB  - Elsevier
+JF  - Computers and Electronics in Agriculture
+VL  - 154
+SP  - 347
+EP  - 360
+DO  - 10.1016/j.compag.2018.09.013
+UR  - https://doi.org/10.1016/j.compag.2018.09.013
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Mazon-olivo et al. - 2018 - Rules engine and complex event processor in the context of internet of things for precision agriculture.pdf
+ER  - 
+TY  - CONF
+T1  - Adaptive unified motion control of mobile manipulators
+A1  - Andaluz, Víctor H.
+A1  - Roberti, Flavio.
+A1  - Marcos, Juan.
+A1  - Carelli, Ricardo.
+Y1  - 2012///
+KW  - Adaptive control
+KW  - Non-linear systems
+KW  - Stability proof
+JF  - Control Engineering Practice
+VL  - 20
+SP  - 1337
+EP  - 1352
+DO  - 10.1016/j.conengprac.2012.07.008
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Roberti, Marcos, Carelli - 2012 - Control Engineering Practice Adaptive unified motion control of mobile manipulators.pdf
+ER  - 
+TY  - CONF
+T1  - Deep neural networks-based rolling bearing fault diagnosis
+A1  - Chen, Zhiqiang.
+A1  - Deng, Shengcai.
+A1  - Chen, Xudong.
+A1  - Li, Chuan.
+A1  - Sanchez, René-vinicio.
+A1  - Qin, Huafeng.
+Y1  - 2017///
+KW  - Deep Belief Networks
+KW  - Deep Boltzmann Machines
+KW  - Fault diagnosis
+KW  - Rolling bearing
+KW  - Stacked Auto-Encoders
+PB  - Elsevier Ltd
+JF  - Microelectronics Reliability
+DO  - 10.1016/j.microrel.2017.03.006
+UR  - http://dx.doi.org/10.1016/j.microrel.2017.03.006
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Chen et al. - 2017 - Microelectronics Reliability Deep neural networks-based rolling bearing fault diagnosis.pdf
+ER  - 
+TY  - CONF
+T1  - Data Mining process for identification of non-spontaneous saccadic movements in clinical electrooculography
+A1  - Becerra-García, R. A.
+A1  - García-Bermúdez, R. V.
+A1  - Joya-Caparrós, G.
+A1  - Fernández-Higuera, A.
+A1  - Velázquez-Rodríguez, C.
+A1  - Velázquez-Mariño, M.
+A1  - Cuevas-Beltrán, F. R.
+A1  - García-Lagos, F.
+A1  - Rodríguez-Labrada, R.
+Y1  - 2017///
+KW  - Classification and regression trees
+KW  - Clinical electrooculography
+KW  - K-nearest neighbors
+KW  - Saccade identification
+KW  - Support vector machines
+JF  - Neurocomputing
+VL  - 250
+SP  - 28
+EP  - 36
+DO  - 10.1016/j.neucom.2016.10.077
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Becerra-García et al. - 2017 - Data mining process for identification of non-spontaneous saccadic movements in clinical electrooculogra.pdf
+N2  - In this paper we evaluate the use of the machine learning algorithms Support Vector Machines (SVM), K-Nearest Neighbors (KNN) and Classification and Regression Trees (CART) to identify non-spontaneous saccades in clinical electrooculography tests. We propose a modification to an adaptive threshold estimation algorithm for detecting signal impulses without the need for any manually pre-established parameters. Data mining tasks such as feature selection and model tuning were performed, obtaining very efficient models using only 3 attributes: amplitude deviation, absolute response latency and relative latency. The models were evaluated with signals recorded from subjects affected by Spinocerebellar Ataxia type 2 (SCA2). Results obtained by the algorithm show accuracies over 98%, recalls over 98% and precisions over 95% for the three models evaluated.
+ER  - 
+TY  - CONF
+T1  - Minería de datos educativa para identificar la relación entre cociente intelectual , estilos de aprendizaje , inteligencia emocional e inteligencias múltiples de estudiantes de ingeniería
+A1  - Arevalo-Marin, Pedro
+A1  - Cabrera-Piedra, Yonder
+A1  - Cabrera-Sarango, Miguel
+A1  - Coronel-Cardenas, Monica
+A1  - Elizalde-Cando, Jorlan
+A1  - Freire-feijoo, Elvis
+A1  - Puchaicela-godoy, Nelson.
+A1  - Quezada-Alvarez, Guido.
+A1  - Salinas-Minga, Nayo.
+A1  - Sarango-Espinoza, Javier.
+A1  - Chamba-Eras, Luis.
+A1  - Labanda-Jaramillo, Milton.
+A1  - Coronel-Romero, Edison.
+A1  - Granda, José Luis.
+A1  - Román-Sánches, María.
+Y1  - 2019///
+KW  - Inteligencia Artificial
+KW  - Inteligencias Múltiples
+KW  - Minería de Datos Educativa
+JF  - RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação RISTI, N.o E17
+SP  - 48
+EP  - 64
+CY  - Brazil
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Arevalo-marin et al. - 2019 - Minería de datos educativa para identificar la relación entre cociente intelectual , estilos de aprend.pdf
+ER  - 
+TY  - CONF
+T1  - Including multi-stroke gesture-based interaction in user interfaces using a model-driven method
+A1  - Parra-González, Otto.
+A1  - España, Sergio.
+A1  - Pastor, Oscar.
+Y1  - 2015///
+KW  - Customised gesture
+KW  - Gesture-based interaction
+KW  - Model-driven engineering
+KW  - User interface
+JF  - ACM International Conference Proceeding Series
+SN  - 9781450334631
+DO  - 10.1145/2829875.2829931
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/González, España, Pastor - 2015 - Including multi-stroke gesture-based interaction in user interfaces using a model-driven method.pdf
+N2  - 2015 ACM.Technological advances in touch-based devices now allow users to interact with information systems in new ways, being gesture-based interaction a popular new kid on the block. Many daily tasks can be performed on mobile devices and desktop computers by applying multi-stroke gestures. Scaling up this type of interaction to bigger information systems and software tools entails difficulties, such as the fact that gesture definitions are platform-specific and this interaction is often hard-coded in the source code and hinders their analysis, validation and reuse. In an attempt to solve this problem, we here propose gestUI, a model-driven approach to the multi-stroke gesture-based user interface development. This system allows modelling gestures, automatically generating gesture catalogues for different gesture-recognition platforms, and user-testing the gestures. A model transformation automatically generates the user interface components that support this type of interaction for desktop applications (further transformations are under development). We applied our proposal to two cases: a form-based information system and a CASE tool. We include details of the underlying software technology in order to pave the way for other research endeavours in this area.
+ER  - 
+TY  - CONF
+T1  - Ultra high-speed deterministic algorithm for transmission lines disturbance identification based on principal component analysis and Euclidean norm
+A1  - Morales, J A.
+A1  - Orduña, E.
+A1  - Rehtanz, C.
+A1  - Cabral, R J.
+A1  - Bretas, A S.
+Y1  - 2016///
+KW  - Deterministic algorithm
+KW  - undesirable conditions
+PB  - Elsevier Ltd
+JF  - INTERNATIONAL JOURNAL OF ELECTRICAL POWER AND ENERGY SYSTEMS
+VL  - 80
+SP  - 312
+EP  - 324
+DO  - 10.1016/j.ijepes.2016.01.043
+UR  - http://dx.doi.org/10.1016/j.ijepes.2016.01.043
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Morales et al. - 2016 - Electrical Power and Energy Systems Ultra high speed deterministic algorithm for transmission lines disturbance.pdf
+ER  - 
+TY  - CONF
+T1  - Optimization of NIR calibration models for multiple processes in the sugar industry
+A1  - Ramírez-morales, Iván.
+A1  - Rivero, Daniel.
+A1  - Pazos, Alejandro.
+A1  - Fernández-Blanco, Enrique.
+Y1  - 2016///
+KW  - Machine learning
+KW  - support vector machines
+PB  - Elsevier
+JF  - Chemometrics and Intelligent Laboratory Systems
+DO  - 10.1016/j.chemolab.2016.10.003
+UR  - http://dx.doi.org/10.1016/j.chemolab.2016.10.003
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ramírez-morales, Rivero, Pazos - 2016 - Author ’ s Accepted Manuscript multiple processes in the sugar industry.pdf
+ER  - 
+TY  - CONF
+T1  - Multimodal deep support vector classification with homologous features and its application to gearbox fault diagnosis
+A1  - Li, Chuan.
+A1  - Sanchez, René-vinicio.
+A1  - Zurita, Grover.
+A1  - Cerrada, Mariela.
+A1  - Cabrera, Diego.
+A1  - Vásquez, Rafael E.
+Y1  - 2015///
+KW  - Deep learning
+KW  - Fault diagnosis
+KW  - Gearbox
+KW  - Multimodal homologous feature
+KW  - Support vector classification
+PB  - Elsevier
+JF  - Neurocomputing
+VL  - 168
+SP  - 119
+EP  - 127
+DO  - 10.1016/j.neucom.2015.06.008
+UR  - http://dx.doi.org/10.1016/j.neucom.2015.06.008
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Li et al. - 2015 - Neurocomputing Multimodal deep support vector classi fi cation with homologous features and its application to gearbo.pdf
+ER  - 
+TY  - CONF
+T1  - Framework to develop a business synergy through enterprise architecture
+A1  - Lopez, Cindy Pamela.
+A1  - Segura, Marco.
+A1  - Santórum, Marco.
+Y1  - 2019///
+KW  - Business Synergy
+KW  - Collaboration
+KW  - Enterprise Architecture
+KW  - Integration
+KW  - Ontology
+KW  - Virtual organization
+JF  - ACM International Conference Proceeding Series
+VL  - Part F1483
+SP  - 125
+EP  - 129
+SN  - 9781450361033
+DO  - 10.1145/3322645.3322668
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Lopez, Segura, Santórum - 2019 - Framework to develop a business synergy through enterprise architecture.pdf
+ER  - 
+TY  - CONF
+T1  - A text mining methodology to discovery syllabi similarities among Higher Education Institutions
+A1  - Orellana, Gerardo.
+A1  - Piedra, Nelson.
+A1  - Orellana, Marcos.
+A1  - Saquicela, Víctor.
+A1  - Baculima, Fernando.
+Y1  - 2018///
+PB  - IEEE
+JF  - 2018 International Conference on Information Systems and Computer Science (INCISCOS)
+SP  - 261
+EP  - 268
+SN  - 9781538676127
+DO  - 10.1109/INCISCOS.2018.00045
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Orellana, Piedra, Universidad - 2018 - A text mining methodology to discovery syllabi similarities among Higher Education Institutions.pdf
+ER  - 
+TY  - CONF
+T1  - Conformation-independent quantitative structure-property relationships study on water solubility of pesticides
+A1  - Fioressi, Silvina E.
+A1  - Bacelo, Daniel E.
+A1  - Rojas, Cristian.
+A1  - Aranda, José F.
+A1  - Duchowicz, Pablo R.
+Y1  - 2019///
+KW  - Water solubility
+KW  - quantitative structure-property relationships
+PB  - Elsevier Inc.
+JF  - Ecotoxicology and Environmental Safety
+VL  - 171
+SP  - 47
+EP  - 53
+DO  - 10.1016/j.ecoenv.2018.12.056
+UR  - https://doi.org/10.1016/j.ecoenv.2018.12.056
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Fioressi et al. - 2019 - Ecotoxicology and Environmental Safety Conformation-independent quantitative structure-property relationships s.pdf
+ER  - 
+TY  - CONF
+T1  - Estudio comparativo de métodos espectrales para reducción de la dimensionalidad: LDA versus PCA
+A1  - Anaya-Isaza, Andrés J.
+A1  - Peluffo-Ordoñez, Diego H.
+A1  - Alvarado-Pérez, Juan C.
+A1  - Ivan-Rios, Jorge
+A1  - Castro-Silva, Juan A.
+A1  - Rosero-Montalvo, Paul D.
+A1  - Peña-Unigarro, Diego F.
+A1  - Salazar-Castro, Jose A.
+A1  - Umaquinga-Criollo, Ana C.
+Y1  - 2016///
+KW  - Clasificación supervisada
+KW  - Machine learning
+JF  - INCISCOS 2016 International Conference on Information Systems and Computer Science
+SP  - 231
+EP  - 238
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Anaya-Isaza et al. - 2016 - Estudio comparativo de métodos espectrales para reducción de la dimensionalidad LDA versus PCA.pdf
+ER  - 
+TY  - CONF
+T1  - Deep reinforcement learning mechanism for dynamic access control in wireless networks handling mMTC
+A1  - Pacheco-paramo, Diego.
+A1  - Tello-oquendo, Luis.
+A1  - Pla, Vicent.
+A1  - Martinez-bauset, Jorge.
+Y1  - 2019///
+KW  - Access control
+KW  - Deep learning
+KW  - Massive machine
+PB  - Elsevier B.V.
+JF  - Ad Hoc Networks
+VL  - 94
+DO  - 10.1016/j.adhoc.2019.101939
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pacheco-paramo et al. - 2019 - Ad Hoc Networks Deep reinforcement learning mechanism for dynamic access control in wireless networks han.pdf
+ER  - 
+TY  - CONF
+T1  - Sustainable riverscape preservation strategy framework using goal-oriented method : Case of historical heritage cities in Malaysia
+A1  - Shafaghat, Arezou.
+A1  - Mir-Ghasemi, Mohammad.
+A1  - Keyvanfar, Ali.
+A1  - Lamit, Hasanuddin.
+A1  - Salim-Ferwati, Mohamed.
+Y1  - 2017///
+KW  - goal-oriented method
+KW  - heritage city
+KW  - riverscape preservation
+KW  - riverscape revitalization
+KW  - sustainability
+PB  - The Gulf Organisation for Research and Development
+JF  - International Journal of Sustainable Built Environment
+VL  - 6
+IS  - 1
+SP  - 143
+EP  - 159
+DO  - 10.1016/j.ijsbe.2017.03.003
+UR  - http://dx.doi.org/10.1016/j.ijsbe.2017.03.003
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Shafaghat et al. - 2017 - Sustainable riverscape preservation strategy framework using goal-oriented method Case of historical heritage.pdf
+ER  - 
+TY  - CONF
+T1  - A fuzzy transition based approach for fault severity prediction in helical gearboxes
+A1  - Cerrada, Mariela.
+A1  - Li, Chuan.
+A1  - Sánchez, René-vinicio.
+A1  - Pacheco, Fannia.
+A1  - Cabrera, Diego.
+A1  - Oliveira, Jose Valente De.
+Y1  - 2016///
+KW  - Fault detections and diagnosis
+KW  - Fuzzy prediction
+PB  - Elsevier B.V.
+JF  - Fuzzy Sets and Systems
+DO  - 10.1016/j.fss.2016.12.017
+UR  - http://dx.doi.org/10.1016/j.fss.2016.12.017
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cerrada et al. - 2016 - A fuzzy transition based approach for fault severity prediction in helical gearboxes.pdf
+ER  - 
+TY  - CONF
+T1  - Comparing Hierarchical Trees in Statistical Implicative Analysis & Hierarchical Cluster in Learning Analytics
+A1  - Pazmiño-Maji, Rubén A.
+A1  - García-Peñalvo, Francisco J.
+A1  - Conde-González, Miguel A.
+Y1  - 2017///
+KW  - Clustering
+KW  - hierarchical cluster
+KW  - learning analytics
+KW  - open source software
+KW  - similarity tree
+KW  - software performance
+KW  - statistical implicative analysis
+JF  - Actas de la 5ª Conferencia Internacional sobre Ecosistemas Tecnológicos para Mejorar la Multiculturalidad.
+SP  - 1
+EP  - 7
+DO  - 10.1145/3144826.3145399
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pazmiño-Maji, García-Peñalvo, Conde-González - 2017 - Comparing Hierarchical Trees in Statistical Implicative Analysis & Hierarchica.pdf
+ER  - 
+TY  - CONF
+T1  - GestMan: A Cloud-based Tool for Stroke-Gesture Datasets
+A1  - Nathan-Magrofuoco, Paolo.
+A1  - Roselli, Jean Vanderdonckt.
+A1  - Pérez-Medina, Jorge Luis.
+A1  - Vatavu, Radu-Daniel.
+Y1  - 2019///
+KW  - Cloud computing
+KW  - gesture data management
+KW  - gesture sets
+KW  - isochronicity
+KW  - isometricity
+KW  - isoparameterization
+KW  - stroke-gestures
+KW  - tool
+JF  - Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems - EICS '19
+VL  - 2019
+SP  - 1
+EP  - 6
+SN  - 9781450367455
+DO  - 10.1145/3319499.3328227
+UR  - http://dl.acm.org/citation.cfm?doid=3319499.3328227
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Magrofuoco et al. - 2019 - GestMan A Cloud-based Tool for Stroke-Gesture Datasets.pdf
+ER  - 
+TY  - CONF
+T1  - Improving the Design of Virtual Learning Environments from a Usability Study
+A1  - Morales-Rodriguez, Germania.
+A1  - Torres-carrion, Pablo.
+A1  - Pérez, Jennifer.
+A1  - Peñafiel, Luis.
+Y1  - 2019///
+KW  - Design
+KW  - Higher education
+KW  - LMS
+KW  - Usability
+KW  - design
+KW  - higher education
+KW  - lms
+KW  - usability
+PB  - Springer International Publishing
+JF  - Conference on Information Technologies and Communication of Ecuador
+VL  - 1
+SP  - 100
+EP  - 115
+CY  - Ecuador
+SN  - 9783030028282
+DO  - 10.1007/978-3-030-02828-2
+UR  - http://dx.doi.org/10.1007/978-3-030-02828-2_8
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Morales, Torres-carrion - 2019 - Improving the Design of Virtual Learning Environments from a Usability Study.pdf
+ER  - 
+TY  - CONF
+T1  - Generative Adversarial Networks Selection Approach for Extremely Imbalanced Fault Diagnosis of Reciprocating Machinery
+A1  - Cabrera, Diego.
+A1  - Sancho, Fernando.
+A1  - Long, Jianyu.
+A1  - Sánchez, René-vinicio.
+A1  - Zhang, Shaohui.
+A1  - Cerrada, Mariela.
+A1  - Li, Chuan.
+Y1  - 2019///
+KW  - Model selection
+KW  - Random Forest
+JF  - IEEE Access
+SP  - 70643
+EP  - 70653
+DO  - 10.1109/ACCESS.2019.2917604
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cabrera et al. - 2019 - Generative Adversarial Networks Selection Approach for Extremely Imbalanced Fault Diagnosis of Reciprocating Mac.pdf
+ER  - 
+TY  - CONF
+T1  - Detecting Similar Areas of Knowledge Using Semantic and Data Mining Technologies
+A1  - Sumba, Xavier.
+A1  - Sumba, Freddy.
+A1  - Tello, Andrés.
+A1  - Baculima, Fernando.
+A1  - Espinoza, Mauricio.
+A1  - Saquicela, Víctor.
+Y1  - 2016///
+KW  - Data mining
+KW  - Semantic Web
+KW  - linked data
+KW  - query languages
+JF  - Electronic Notes in Theoretical Computer Science
+VL  - 329
+SP  - 149
+EP  - 167
+DO  - 10.1016/j.entcs.2016.12.009
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Sumba et al. - 2016 - Detecting Similar Areas of Knowledge Using Semantic and Data Mining Technologies.pdf
+ER  - 
+TY  - CONF
+T1  - Early warning in egg production curves from commercial hens : A SVM approach
+A1  - Ramírez-Morales, Iván.
+A1  - Rivero-Cebrián, Daniel.
+A1  - Fernández-Blanco, Enrique.
+A1  - Pazos-Sierra, Alejandro.
+Y1  - 2016///
+KW  - Machine learning
+KW  - Support vector machines
+JF  - Computers and Electronics in Agriculture
+VL  - 121
+SP  - 169
+EP  - 179
+DO  - 10.1016/j.compag.2015.12.009
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ramírez et al. - 2016 - Early warning in egg production curves from commercial hens A SVM approach.pdf
+ER  - 
+TY  - CONF
+T1  - Selection of Software Product Line Implementation Components Using Recommender Systems : An Application to Wordpress
+A1  - Rodas-silva, Jorge.
+A1  - Galindo, José A.
+A1  - García-Gutiérrez, Jorge.
+A1  - Benavides, David.
+Y1  - 2019///
+KW  - Feature models
+KW  - implementation components
+KW  - recommender systems
+JF  - IEEE Access
+VL  - 7
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Rodas-silva, Galindo, Benavides - 2019 - Selection of Software Product Line Implementation Components Using Recommender Systems An Appl.pdf
+ER  - 
+TY  - CONF
+T1  - Principios de la Web Semántica y Computación Afectiva en un Ecoturismo Sustentable mediante el Desarrollo de Aplicación Web Educativa
+A1  - Quezada-sarmiento, Pablo Alejandro.
+A1  - Andres, Santiago Mengual.
+Y1  - 2018///
+KW  - Economía
+KW  - Principles
+KW  - Software
+KW  - Web Semántica
+JF  - Revista Ibérica de Sistemas de Tecnologías de Informacao
+SP  - 212
+EP  - 222
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Quezada-sarmiento, Andres - 2018 - Principios de la Web Semántica y Computación Afectiva en un Ecoturismo Sustentable mediante el Des.pdf
+ER  - 
+TY  - CONF
+T1  - Observer-biased bearing condition monitoring: From fault detection to multi-fault classification
+A1  - Li, Chuan.
+A1  - Valente-de-Oliveira, José.
+A1  - Cerrada, Mariela.
+A1  - Pacheco, Fannia.
+A1  - Cabrera, Diego.
+A1  - Sanchez, Vinicio.
+A1  - Zurita, Grover.
+Y1  - 2016///
+KW  - Fuzzy clustering
+KW  - Observer-biased clustering
+KW  - Wavelets packed transform
+PB  - Elsevier
+JF  - Engineering Applications of Artificial Intelligence
+VL  - 50
+SP  - 287
+EP  - 301
+DO  - 10.1016/j.engappai.2016.01.038
+UR  - http://dx.doi.org/10.1016/j.engappai.2016.01.038
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Li et al. - 2016 - Engineering Applications of Arti fi cial Intelligence Observer-biased bearing condition monitoring From fault detect.pdf
+ER  - 
+TY  - THES
+T1  - Desarrollo de una plataforma tecnológica para la gestión de seguridad en una institución educativa de grado inicial mediante el uso de sistemas móviles, Reconocimiento facial y sistemas de alertas
+A1  - Basantes-Verdugo, Nathalia.
+A1  - Moncada-Romero, Pedro.
+Y1  - 2018///
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Tanya, Mancilla - 2017 - Universidad De Guayaquil Tutor.pdf
+ER  - 
+TY  - CONF
+T1  - Use of Drones for Surveillance and Reconnaissance of Military Areas
+A1  - Paucar, Carlos.
+A1  - Morales, Lilia.
+A1  - Pinto, Katherine.
+A1  - Sanches, Marcos.
+A1  - Rodríguez, Rosalba.
+A1  - Gutierrez, Marisol.
+A1  - Luis, Palacios.
+Y1  - 2018///
+KW  - drones
+KW  - á images á detection
+KW  - á surveillance á reconnaissance
+JF  - Conferencia internacional de investigación aplicada a defensa y seguridad MICRADS 2018
+VL  - 152
+SP  - 119
+EP  - 132
+SN  - 978-981-13-9154-5
+DO  - 10.1007/978-981-13-9155-2
+UR  - http://link.springer.com/10.1007/978-981-13-9155-2
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Paucar et al. - 2020 - Developments and Advances in Defense and Security.pdf
+ER  - 
+TY  - CONF
+T1  - Omnidirectional Transport System for Classification and Quality Control using Artificial Vision
+A1  - Barrionuevo-Salazar, Erick.
+A1  - Navas-Escudero, Bryan.
+A1  - Rea-Minango, Sylvia Nathaly.
+Y1  - 2019///
+KW  - Artificial vision
+KW  - conveyor
+KW  - omnidirectional transport system.
+JF  - ICVARS '19 Proceedings of the 2019 3rd International Conference on Virtual and Augmented Reality Simulations
+SP  - 62
+EP  - 66
+DO  - 10.1145/3332305.3332321
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Salazar, Escudero, Minango - 2019 - Omnidirectional Transport System for Classification and Quality Control using Artificial Vision.pdf
+ER  - 
+TY  - CONF
+T1  - Gearbox Fault Diagnosis Based on a Novel Hybrid Feature Reduction Method
+A1  - Wang, Yu.
+A1  - Yang, Shuai.
+A1  - Sánchez, René-vinicio
+Y1  - 2018///
+JF  - IEEE Access
+SP  - 75813
+EP  - 75823
+DO  - 10.1109/ACCESS.2018.2882801
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Wang - 2018 - Gearbox Fault Diagnosis Based on a Novel Hybrid Feature Reduction Method.pdf
+ER  - 
+TY  - CONF
+T1  - Automatic Recognition of Long Period Events From Volcano Tectonic Earthquakes at Cotopaxi Volcano
+A1  - Lara-cueva, Román A.
+A1  - Benítez, Diego S.
+A1  - Carrera, Enrique V.
+A1  - Ruiz, Mario.
+A1  - Rojo-Álvarez, José Luis.
+Y1  - 2016///
+KW  - Decision trees (DT)
+KW  - support vector machines (SVM)
+JF  - IEEE Transactions on Geoscience and Remote Sensing, Volumen: 54.
+SP  - 1
+EP  - 11
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Lara-cueva et al. - 2016 - Automatic Recognition of Long Period Events From Volcano Tectonic Earthquakes at Cotopaxi Volcano.pdf
+ER  - 
+TY  - CONF
+T1  - Artificial Neural Networks applied to flow prediction : A use case for the Tomebamba river
+A1  - Veintimilla-Reyes, Jaime.
+A1  - Cisneros, Felipe.
+A1  - Vanegas, Pablo.
+Y1  - 2016///
+KW  - ANN
+KW  - Artificial Neural Networks
+KW  - Forecasting.
+PB  - The Author(s)
+JF  - Procedia Engineering
+VL  - 162
+SP  - 153
+EP  - 161
+DO  - 10.1016/j.proeng.2016.11.031
+UR  - http://dx.doi.org/10.1016/j.proeng.2016.11.031
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Veintimilla-reyes, Cisneros, Vanegas - 2016 - Artificial Neural Networks applied to flow prediction A use case for the Tomebamba river.pdf
+ER  - 
+TY  - CONF
+T1  - Incremental texture mapping for autonomous driving
+A1  - Oliveira, Miguel.
+A1  - Santos, Víctor.
+A1  - Sappa, Angel D.
+A1  - Dias, Paulo.
+A1  - Moreira, A Paulo.
+Y1  - 2016///
+KW  - Texture mapping
+KW  - scene reconstruction
+PB  - Elsevier B.V.
+JF  - Robotics and Autonomous Systems
+DO  - 10.1016/j.robot.2016.06.009
+UR  - http://dx.doi.org/10.1016/j.robot.2016.06.009
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Oliveira et al. - Unknown - Incremental texture mapping for autonomous driving.pdf
+ER  - 
+TY  - CONF
+T1  - Present and future incidence of dengue fever in Ecuador nationwide and coast region scale using species distribution modeling for climate variability´s effect
+A1  - Jácome, Gabriel.
+A1  - Vilela, Paulina.
+A1  - Yoo, Changkyoo.
+Y1  - 2019///
+KW  - Aedes aegypti
+KW  - Climate change
+KW  - Dengue fever
+KW  - Ecological model
+KW  - Ecuador
+KW  - Habitat suitability
+PB  - Elsevier
+JF  - Ecological Modelling
+VL  - 400
+IS  - March
+SP  - 60
+EP  - 72
+DO  - 10.1016/j.ecolmodel.2019.03.014
+UR  - https://doi.org/10.1016/j.ecolmodel.2019.03.014
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Jácome, Vilela, Yoo - 2019 - Present and future incidence of dengue fever in Ecuador nationwide and coast region scale using species.pdf
+ER  - 
+TY  - CONF
+T1  - Analysis , Design and Implementation of an Autopilot for Unmanned Aircraft - UAV ’ s Based on Fuzzy Logic
+A1  - Valencia-redrován, David.
+A1  - Guijarro-rubio, Octavio.
+A1  - Basantes-montero, David.
+A1  - Enríquez-champutiz, Victor.
+Y1  - 2015///
+KW  - autonomous flight
+KW  - autopilot
+KW  - fuzzy control
+KW  - uav
+JF  - 2015 Asia-Pacific Conference on Computer Aided System Engineering Analysis,
+SP  - 196
+EP  - 201
+SN  - 9781479975884
+DO  - 10.1109/APCASE.2015.42
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/David et al. - 2015 - Analysis , Design and Implementation of an Autopilot for Unmanned Aircraft - UAV ’ s Based on Fuzzy Logic.pdf
+ER  - 
+TY  - CONF
+T1  - Optimal Energy Management for Stable Operation of an Islanded Microgrid
+A1  - Minchala, Luis I.
+A1  - Garza-Castanñón, Luis.
+A1  - Zhang, Youmin.
+A1  - Altuve-Ferrer, Héctor J.
+Y1  - 2016///
+JF  - IEEE Transactions on Industrial Informatics
+VL  - 3203
+SP  - 1
+EP  - 9
+DO  - 10.1109/TII.2016.2569525
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Zhang, Member - 2016 - Optimal Energy Management for Stable Operation of an Islanded Microgrid.pdf
+ER  - 
+TY  - CONF
+T1  - Evaluation of Visualization of a Fuzzy-Based Recommender System for Political Community-Building
+A1  - Terán, Luis.
+Y1  - 2015///
+KW  - fuzzy clustering
+KW  - recommender systems
+JF  - Procedia - Procedia Computer Science
+VL  - 62
+SP  - 116
+EP  - 125
+DO  - 10.1016/j.procs.2015.08.424
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ter - 2015 - Evaluation of Visualization of a Fuzzy-Based Recommender System for Political Community-Building.pdf
+ER  - 
+TY  - CONF
+T1  - Big Data , the Next Step in the Evolution of Educational Data Analysis
+A1  - Villegas-Ch, W.
+A1  - Luján-Mora, Sergio.
+A1  - Buenaño-Fernández, Diego.
+A1  - Palacios-Pacheco, Xavier
+Y1  - 2018///
+KW  - Analysis of data
+KW  - Big Data
+KW  - data warehouse
+JF  - ICITS 2018: Proceedings of the International Conference on Information Technology & Systems
+VL  - 1
+SN  - 9783319734507
+DO  - 10.1007/978-3-319-73450-7
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Luj - Unknown - Big Data , the Next Step in the Evolution of Educational Data Analysis.pdf
+ER  - 
+TY  - CONF
+T1  - Implementation of social and semantic tools into open educational resources production
+A1  - Cueva Carrión, Samanta.
+A1  - Rodríguez Morales, Germania.
+A1  - Tóvar Caro, Edmundo.
+Y1  - 2011///
+KW  - Open Course Ware
+KW  - Open Educational Resources
+KW  - Semantic Web
+KW  - Social Tools
+KW  - production cycle
+JF  - 2011 IEEE Global Engineering Education Conference, EDUCON 2011
+SP  - 712
+EP  - 720
+SN  - 9781612846439
+DO  - 10.1109/EDUCON.2011.5773217
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cueva Carrión, Rodríguez Morales, Tóvar Caro - 2011 - Implementation of social and semantic tools into open educational resources pro.pdf
+N2  - The present paper shows the Word made to implement of one production cycle of OERs using Social and Semantic Resources into an OCW repository of a high level educational institution which has allowed to prove the proposal of OER's production cycle based on ADDIE instruction design model. © 2011 IEEE.
+ER  - 
+TY  - CONF
+T1  - Visualizing authorship and contribution of collaborative writing in e-learning environments
+A1  - Torres, Johnny.
+A1  - García, Sixto.
+A1  - Peláez, Enrique.
+Y1  - 2019///
+KW  - Human-Computer Interaction
+KW  - Natural Language Processing
+JF  - International Conference on Intelligent User Interfaces, Proceedings IUI
+SP  - 324
+EP  - 328
+SN  - 9781450362726
+DO  - 10.1145/3301275.3302328
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Torres, García, Peláez - 2019 - Visualizing authorship and contribution of collaborative writing in e-learning environments.pdf
+N2  - Nowadays, several productivity platforms provide effective capabilities to edit collaboratively the content of a document. In educational settings, e-Learning approaches have taken advantage of this functionality to encourage students to join others to complete projects that include the writing of text documents. Although collaborative writing may foster interaction among students, the existing analytical metrics on these platforms are limited and can slow down the process of review by instructors in trying to determine the level of contribution of each student in the document. In this paper, we describe an analytic framework to measure and visualize the contribution in collaborative writing.
+ER  - 
+TY  - CONF
+T1  - Handling subjective information through augmented ( fuzzy ) computation
+A1  - Loor, Marcelo.
+A1  - Tré, Guy De.
+Y1  - 2019///
+KW  - Fuzzy databases
+KW  - imperfect data
+KW  - subjective data
+PB  - Elsevier B.V.
+JF  - Fuzzy Sets and Systems
+VL  - 1
+SP  - 1
+EP  - 25
+DO  - 10.1016/j.fss.2019.05.007
+UR  - https://doi.org/10.1016/j.fss.2019.05.007
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Loor, Tré - 2019 - Handling subjective information through augmented ( fuzzy ) computation.pdf
+ER  - 
+TY  - CONF
+T1  - System for monitoring and supporting the treatment of sleep apnea using IoT and big data
+A1  - Sarabia-jácome, David.
+A1  - Yacchirema, Diana.
+A1  - Palau, Carlos.
+A1  - Esteve, Manuel.
+Y1  - 2018///
+KW  - big data
+KW  - cloud computing
+KW  - fog computing
+PB  - Elsevier B.V.
+JF  - Pervasive and Mobile Computing
+DO  - 10.1016/j.pmcj.2018.07.007
+UR  - https://doi.org/10.1016/j.pmcj.2018.07.007
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Sarabia-jácome, Yacchirema, Esteve - 2018 - System for monitoring and supporting the treatment of sleep apnea using IoT and big data.pdf
+ER  - 
+TY  - CONF
+T1  - Optical Camera Communication system for three-dimensional T indoor localization
+A1  - Chavez-burbano, Patricia.
+A1  - Guerra, Victor.
+A1  - Rabadan, José.
+A1  - Perez-jimenez, Rafael.
+Y1  - 2019///
+KW  - Image processing
+KW  - Indoor Positioning System
+KW  - Industrial internet of things
+KW  - Optical Camera Communication
+KW  - indoor positioning system
+KW  - optical camera communication
+PB  - Elsevier
+JF  - Optik - International Journal for Light and Electron Optics
+VL  - 192
+DO  - 10.1016/j.ijleo.2019.05.076
+UR  - https://doi.org/10.1016/j.ijleo.2019.05.076
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Chavez-burbano et al. - 2019 - Optik Optical Camera Communication system for three-dimensional indoor localization.pdf
+ER  - 
+TY  - CONF
+T1  - Spatial prediction of soil water retention in a Páramo landscape: Methodological insight into machine learning using random forest
+A1  - Guio Blanco, Carlos M.
+A1  - Brito Gomez, Victor M.
+A1  - Crespo, Patricio.
+A1  - Ließ, Mareike.
+Y1  - 2018///
+KW  - Random Forest
+KW  - Validation
+KW  - Water retention
+PB  - Elsevier
+JF  - Geoderma
+VL  - 316
+IS  - July 2017
+SP  - 100
+EP  - 114
+DO  - 10.1016/j.geoderma.2017.12.002
+UR  - https://doi.org/10.1016/j.geoderma.2017.12.002
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Guio Blanco et al. - 2018 - Spatial prediction of soil water retention in a Páramo landscape Methodological insight into machine learni.pdf
+N2  - Soils of Páramo ecosystems regulate the water supply to many Andean populations. In spite of being a necessary input to distributed hydrological models, regionalized soil water retention data from these areas are currently not available. The investigated catchment of the Quinuas River has a size of about 90 km2 and comprises parts of the Cajas National Park in southern Ecuador. It is dominated by soils with high organic carbon contents, which display characteristics of volcanic influence. Besides providing spatial predictions of soil water retention at the catchment scale, the study presents a detailed methodological insight to model setup and validation of the underlying machine learning approach with random forest. The developed models performed well predicting volumetric water contents between 0.55 and 0.9 cm3 cm− 3. Among the predictors derived from a digital elevation model and a Landsat image, altitude and several vegetation indices provided the most information content. The regionalized maps show particularly low water retention values in the lower Quinuas valley, which go along with high prediction uncertainties. Due to the small size of the dataset, mineral soils could not be separated from organic soils, leading to a high prediction uncertainty in the lower part of the valley, where the soils are influenced by anthropogenic land use.
+ER  - 
+TY  - CONF
+T1  - A Low-Cost IoT Application for the Urban Traffic of Vehicles, Based on Wireless Sensors Using GSM Technology
+A1  - Nugra, Hugo.
+A1  - Abad, Alejandra.
+A1  - Fuertes, Walter.
+A1  - Galarraga, Fernando.
+A1  - Aules, Hernán.
+A1  - Villacís, César.
+A1  - Toulkeridis, Theofilos.
+Y1  - 2016///
+KW  - Congestion of vehicular traffic
+KW  - IoT monitoring
+KW  - Wireless Sensors
+KW  - celular network
+KW  - data mining
+JF  - Proceedings - IEEE International Symposium on Distributed Simulation and Real-Time Applications, DS-RT
+SP  - 161
+EP  - 169
+SN  - 9781509035045
+DO  - 10.1109/DS-RT.2016.24
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Nugra et al. - 2016 - A Low-Cost IoT Application for the Urban Traffic of Vehicles, Based on Wireless Sensors Using GSM Technology.pdf
+N2  - Congestion of vehicular traffic in the cities with the highest\npopulation density results into a high amount of accidents and also to\nimminent road violence above average. Facing this problem, our study\nintends to implement a low-cost Internet of Thing proposal, in order to\nmonitor and analyze traffic circulation and provide solutions to reduce\nthe above mentioned negative effects. To fulfill such proposal, a system\nof low-cost wireless monitoring has been designed and developed, which\nis supported on a distributed multilayer model. This system interacts\nwith a device consisting of two electronic Arduino platforms, which\nthemselves interact in master-slave mode having a distance sensor based\non laser for detection of vehicles. The latter has the ability to\nconnect to the Internet transmitting in real-time data taken by HTTP\nrequests over the cellular network. On the data collected an engine for\ndata mining is mounted in order to receive information about the traffic\non highways and subsequently proposing potential solutions. The proof of\nconcept has been applied in the city of Quito. There, on over their two\ncentral lanes of the Simon Bolivar Avenue such kind of solutions have\nbeen applied with positive results, both in the operation of the\nsoftware and hardware that compose the prototype, as well as in\nreference measurements of traffic. Based on our findings, the system\nmanages to suggest extrapolations, which enables to reduce traffic\ncongestion, fuel waste, and also air pollution.
+ER  - 
+TY  - CONF
+T1  - Ontology of personal learning environments in the development of thesis projects
+A1  - Tapia-León, Mariella.
+A1  - Santamaría, Teresa.
+A1  - Chicaiza, Janneth.
+A1  - Luján-Mora, Sergio.
+Y1  - 2017///
+JF  - ICETC 2017 Actas de la 9ª Conferencia Internacional sobre Tecnología de la Educación y Computación de 2017
+SP  - 183
+EP  - 187
+SN  - 9781450354356
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Tapia et al. - 2017 - Ontology for the personal learning environments in the development of thesis projects.pdf
+N2  - The thesis is the final step in academic formation of students. Its development may experience some difficulties that cause delays in delivery times. The internet allows students to access relevant and large amounts of information for use in the development of their theses. The internet also allows students to interact with others in order to create knowledge networks. However, exposure to too much information can produce infoxication. Therefore, there is a need to organise such information and technological resources. Through a personal learning environment (PLE), students can use current technology and online resources to develop their projects. Furthermore, by means of an ontological model, the underlying knowledge in the domain and environment can be represented in a readable format for machines. This paper presents an ontological model called PLET4Thesis, which has been designed in order to …
+ER  - 
+TY  - CONF
+T1  - Usabilidad Web : situación actual de los portales Web de las Universidades de Ecuador
+A1  - Chamba-eras, Luis.
+A1  - Coronel-romero, Edison.
+A1  - Labanda-jaramillo, Milton.
+Y1  - 2016///
+KW  - heurísticas
+KW  - interacción humano-computador
+KW  - portales web
+KW  - prometheus
+KW  - sirius
+KW  - usabilidad
+JF  - Sexta Conferencia de Directores de Tecnología de Información, TICAL 2016 Gestión de las TICs para la Investigación y la Colaboración
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Chamba-eras et al. - 2016 - Usabilidad Web situación actual de los portales Web de las Universidades de Ecuador.pdf
+ER  - 
+TY  - CONF
+T1  - SmartInnovation, Systems and Technologies
+A1  - Nagar, Atulya.
+A1  - Prasad-Mohapatra, Durga
+A1  - Chaki, Nabendu.
+A1  - Herrera-Lara, Roberto.
+Y1  - 2016///
+JF  - 3rd International Conference on Advanced Computing, Networking and Informatics
+VL  - 43
+SN  - 9788132225287
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Innovation - 2015 - International Conference on Advanced Computing , Networking and Informatics.pdf
+ER  - 
+TY  - CONF
+T1  - Using Multilayer Fuzzy Cognitive Maps to diagnose Autism Spectrum Disorder
+A1  - Puerto, E.
+A1  - Aguilar, J.
+A1  - López, C.
+A1  - Chávez, D.
+Y1  - 2018///
+KW  - Multilayer Fuzzy Cognitive map
+PB  - Elsevier B.V.
+JF  - Applied Soft Computing Journal
+DO  - 10.1016/j.asoc.2018.10.034
+UR  - https://doi.org/10.1016/j.asoc.2018.10.034
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Puerto et al. - 2018 - A Multilayer Fuzzy Cognitive Maps to diagnose the Autism Spectrum Disorder Multilayer Fuzzy Cognitive Maps carrie.pdf
+ER  - 
+TY  - CONF
+T1  - Teaching-learning of basic language of signs through didactic games
+A1  - Parreño, Mateo A.
+A1  - Celi, Carmen J.
+A1  - Quevedo, Washington X.
+A1  - Rivas, David.
+A1  - Andaluz, Víctor H.
+Y1  - 2017///
+KW  - Gestual
+KW  - Hearing impairment
+KW  - Sensor
+KW  - Signal language
+KW  - Teaching methods
+JF  - ACM International Conference Proceeding Series
+SP  - 46
+EP  - 51
+SN  - 9781450354356
+DO  - 10.1145/3175536.3175584
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Parreño et al. - 2017 - Teaching-learning of basic language of signs through didactic games.pdf
+N2  - © 2017 Association for Computing Machinery. This article presents the development of a didactic game for the teaching-learning of the basic language of Ecuadorian signs, for the hearing impaired and / or interested in learning the basic sign language of Ecuador. The input device is a Leap Motion, which detects the gestural signals in the Unity3D software. For the processing of the signals, there is a classification system implemented in MatLab for the two types of signal configuration: Static and dynamic; correlation is used if the configuration is static (no motion signal) and the DTW algorithm is used for dynamic (motion signal) configurations. Communication between Unity3D and MatLab is done using shared memory. This development core acquires a didactic use with two games, implemented in Unity3D for single player and multiplayer.
+ER  - 
+TY  - GEN
+T1  - CIRP Encyclopedia of Production Engineering
+A1  - Chatti, Sami.
+A1  - Laperrière, Luc.
+A1  - Reinhart, Gunther.
+A1  - Tolio, Ullio.
+Y1  - 2014///
+JF  - CIRP Encyclopedia of Production Engineering
+SP  - 925
+EP  - 928
+SN  - 978-3-642-20617-7
+UR  - http://link.springer.com/10.1007/978-3-642-20617-7
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Lechler - 2014 - CIRP Encyclopedia of Production Engineering.pdf
+ER  - 
+TY  - CONF
+T1  - OpenChatBotUNL : Proposal for the execution platform of conversational agents
+A1  - Granda, Jose-luis.
+A1  - Chamba-Eras, Luis.
+A1  - Labanda-Jaramillo, Milton.
+A1  - Coronel-Romero, Edison.
+A1  - Guaman-Quinche, René.
+A1  - Maldonado-Ortega, Carlos.
+Y1  - 2019///
+KW  - Agente Conversacional
+KW  - ChatBot
+KW  - Inteligencia Artificial
+KW  - Procesamiento de Lenguaje Natural
+JF  - RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação
+IS  - January
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Granda et al. - 2019 - OpenChatBotUNL Proposal for the execution platform of conversational agents OpenChatBotUNL Propuesta de plataf.pdf
+ER  - 
+TY  - CONF
+T1  - Minería de Datos Educacionales: una visión holística
+A1  - Moscoso-Zea, Oswaldo.
+A1  - Lujan-Mora, Sergio
+Y1  - 2016///
+KW  - Minería de datos
+JF  - Iberian Conference on Information Systems and Technologies, CISTI
+VL  - 2016-July
+SN  - 9789899843462
+DO  - 10.1109/CISTI.2016.7521411
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Moscoso-Zea, Lujan-Mora - 2016 - Educational data mining An holistic view Minería de Datos Educacionales una visión holística.pdf
+N2  - © 2016 AISTI. Datamining (DM) brings together a wide range of techniques and algorithms which allow the extraction of knowledge from databases for timely decision making. DM has been applied to different fields of study. One important research field is Education. Applying DM in education is known as educational datamining (EDM). The main purpose of EDM is to analyze data from educational institutions using different techniques such as: prediction, clustering, time-series analysis, classification, among others. This paper presents an holistic view of EDM including classification of algorithms, methods and tools used in DM processes. Furthermore, processes and indicators that could be improved are analyzed in educational institutions. This study covers papers presented from 2005 to 2015.
+ER  - 
+TY  - CONF
+T1  - An Expert System to Provide Sexual and Reproductive Health Educational Contents for Young Deaf Women
+A1  - Oyola-Flores, C.
+A1  - Robles-Bykbaev, Y.
+A1  - Robles-Bykbaev, V.
+A1  - Ingavelez-Guerra, P.
+A1  - Galan-Montesdeoca, J.
+Y1  - 2018///
+KW  - Higher education
+KW  - Sexual and reproductive health
+JF  - Congreso Internacional de Innovacion y Tendencias en Ingenieria, CONIITI 2018
+SN  - 9781538681312
+DO  - 10.1109/CONIITI.2018.8587059
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Oyola-Flores et al. - 2018 - An Expert System to Provide Sexual and Reproductive Health Educational Contents for Young Deaf Women.pdf
+N2  - Currently, the community of deaf women must face lack of several resources related to their personal and professional development: (i) the lack of bilingualism (sign language and written language), (ii) the lack of an appropriate knowledge about local sign language, and (iii) the scarcity of educational plans about of Sexual and Reproductive Health (SRH). This situation triggers several problems such as transmission of sexually transmitted diseases, unwanted pregnancy in adolescence, sexual violence, and complications during pregnancy. For these reasons, in this paper, we present an ecosystem and an educational methodology aimed on improving the access to SRH programs as well complementing the engineering academic curriculum. Our proposal was put to test with 3 (deaf) human experts of the Federation of the Deaf of Azuay. The results are encouraging and have shown that it is necessary to implement educational programs in universities and colleges.
+ER  - 
+TY  - CONF
+T1  - Fault diagnosis in spur gears based on genetic algorithm and random forest
+A1  - Cerrada, Mariela.
+A1  - Zurita, Grover.
+A1  - Cabrera, Diego.
+A1  - Sánchez, René-vinicio.
+A1  - Artés, Mariano.
+A1  - Li, Chuan.
+Y1  - 2015///
+KW  - Fault diagnosis
+KW  - Feature selection
+KW  - Gearbox
+KW  - Genetic algorithms
+KW  - Random forest
+PB  - Elsevier
+JF  - Mechanical Systems and Signal Processing
+SP  - 1
+EP  - 17
+DO  - 10.1016/j.ymssp.2015.08.030
+UR  - http://dx.doi.org/10.1016/j.ymssp.2015.08.030
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cerrada et al. - 2015 - Fault diagnosis in spur gears based on genetic algorithm and random forest.pdf
+ER  - 
+TY  - CONF
+T1  - Attribute clustering using rough set theory for feature selection in fault severity classification of rotating machinery
+A1  - Pacheco, Fannia.
+A1  - Cerrada, Mariela.
+A1  - Cabrera, Diego.
+A1  - Li, Chuan.
+A1  - Valente-de -Oliveira, José.
+Y1  - 2016///
+JF  - Expert Systems With Applications
+DO  - 10.1016/j.eswa.2016.11.024
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pacheco et al. - 2016 - PT.pdf
+ER  - 
+TY  - CONF
+T1  - ScienceDirect On-line crop / weed discrimination through the Mahalanobis distance from images in maize fields
+A1  - García Santillan, Ivan .
+A1  - Pajares, Gonzalo.
+Y1  - 2017///
+KW  - Crop/ weed discrimination
+KW  - Machine vision
+JF  - Biosystem Engineering
+VL  - 166
+SP  - 28
+EP  - 43
+DO  - 10.1016/j.biosystemseng.2017.11.003
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Garcı - 2017 - ScienceDirect On-line crop weed discrimination through the Mahalanobis distance from images in maize fields.pdf
+ER  - 
+TY  - CONF
+T1  - Fall detection system for elderly people using IoT and Big Data
+A1  - Yacchirema, Diana.
+A1  - Suárez-de-Puga, Jara.
+A1  - Palau, Carlos.
+A1  - Esteve, Manuel.
+Y1  - 2018///
+KW  - Big Data
+KW  - Internet-of-Things
+PB  - Elsevier B.V.
+JF  - Procedia Computer Science
+VL  - 130
+SP  - 603
+EP  - 610
+CY  - Valencia; España
+DO  - 10.1016/j.procs.2018.04.110
+UR  - https://doi.org/10.1016/j.procs.2018.04.110
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Yacchirema - 2018 - ScienceDirect ScienceDirect ScienceDirect Fall Fall detection detection system system for for elderly elderly people.pdf
+ER  - 
+TY  - CONF
+T1  - Using fuzzy logic in QCA for the selection of relevant is adoption drivers in emerging economies
+A1  - Solorzano Alcivar, Nayeth I.
+A1  - Houghton, Luke.
+A1  - Sanzogni, Louis.
+Y1  - 2018///
+KW  - Fuzzy logic
+KW  - Information System Adoption
+KW  - Latin America
+KW  - Public Organization
+KW  - Qualitative Comparative Analysis
+JF  - ACM International Conference Proceeding Series
+SP  - 38
+EP  - 43
+SN  - 9781450364690
+DO  - 10.1145/3220267.3220285
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Solorzano Alcivar, Houghton, Sanzogni - 2018 - Using fuzzy logic in QCA for the selection of relevant is adoption drivers in emerging ec.pdf
+N2  - This paper argues that typical adoption studies fail to capture the nuances and realities of emerging economies in Latin American (LAT) regions. Existing research has a long list of factors that are based on studies outside of the LAT region, which is a problem because there are almost no studies that capture the unique perspective of the LAT context. These issues, in turn, creates uncertainty because the context in LAT varies widely from the economies where most of these studies are conducted. To begin to address this problem, the authors used a Qualitative Comparative Analysis (QCA) using fuzzy logic to refine the selection of drivers obtained from earlier studies. The study revealed fourteen themes as being relevant candidate drivers for comparative future research purposes. It is argued that these results provide local stakeholders with a set of drivers relating to IS adoption within a specific context, namely in LAT economies and provide a contextual frame to develop more meaningful studies in LAT economies. © 2018 Association for Computing Machinery.
+ER  - 
+TY  - CONF
+T1  - Experts agents in PEM fuel cell control
+A1  - Agila, Wilton.
+A1  - Cajo, Ricardo.
+A1  - Plaza, Douglas.
+Y1  - 2015///
+KW  - Expert Agent
+KW  - Fuzzy Controller
+KW  - PEM Fuel Cell
+KW  - Perceptive Agents.
+JF  - International Conference on Renewable Energy Research and Applications, ICRERA 2015
+VL  - 5
+IS  - Nafion 115
+SP  - 896
+EP  - 900
+SN  - 9781479999828
+DO  - 10.1109/ICRERA.2015.7418539
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Agila, Cajo, Plaza - 2015 - Experts agents in PEM fuel cell control.pdf
+ER  - 
+TY  - CONF
+T1  - Neuromarketing and facial recognition: A systematic literature review
+A1  - Espinoza Mina, Marcos Antonio.
+A1  - Gallegos Barzola, Doris Del Pilar.
+Y1  - 2018///
+KW  - Neuromarketing facial recognition
+KW  - Software
+KW  - Technology
+PB  - Springer International Publishing
+JF  - Communications in Computer and Information Science
+VL  - 883
+SP  - 214
+EP  - 228
+SN  - 9783030009397
+DO  - 10.1007/978-3-030-00940-3_16
+UR  - http://dx.doi.org/10.1007/978-3-030-00940-3_16
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Antonio et al. - 2018 - Neuromarketing and Facial Recognition A Systematic Literature Review.pdf
+N2  - Companies and marketing departments are devoting many resources to the implementation of neuromarketing with facial recognition. This document presents a systematic review of the literature whose main objective was to look for computer systems and technologies of facial recognition that are available to support neuromarketing. As a result, it was found that very few academic and scientific articles focus on this topic in a systematic way. None carry out an analysis for a complete solution and the studies are limited with databases that do not offer a group of images which are sufficiently broad to allow the performance of complete tests. Many works emphasize research on algorithms that increase the level of accuracy of the information analyzed at the time of facial recognition.
+ER  - 
+TY  - CONF
+T1  - Semi-automatic generation of intelligent curricula to facilitate learning analytics
+A1  - Fiallos, Angel.
+A1  - Ochoa, Xavier.
+Y1  - 2019///
+KW  - Intelligent curriculum
+KW  - Natural language process
+KW  - Ontologies
+JF  - ACM International Conference Proceeding Series
+SP  - 46
+EP  - 50
+SN  - 9781450362566
+DO  - 10.1145/3303772.3303834
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Fiallos, Ochoa - 2019 - Semi-automatic generation of intelligent curricula to facilitate learning analytics.pdf
+N2  - © 2019 Association for Computing Machinery. Several Learning Analytics applications are limited by the cost of generating a computer understandable description of the course domain, what is called an Intelligent Curriculum. The following work contributes a novel approach to (semi-)automatically generate Intelligent Curriculum through ontologies extracted from existing learning materials such as digital books or web content. Through a series of natural language processing steps, the semi-structured information present in existing content is transformed into a concept-graph. This work also evaluates the proposed methodology by applying it to learning content for two different courses and measuring the quality of the extracted ontologies against manually generated ones. The results obtained suggest that the technique can be readily used to provide domain information to other Learning Analytics tools.
+ER  - 
+TY  - CONF
+T1  - A systematic method for building Internet of Agents applications based on the Linked Open Data approach
+A1  - Pico-Talencia, Pablo.
+A1  - Holgado-Terriza, Juan A.
+A1  - Paderewski, Patricia.
+Y1  - 2019///
+KW  - Internet of Things
+KW  - Linked Open.
+PB  - Elsevier B.V.
+JF  - Future Generation Computer Systems
+VL  - 94
+SP  - 250
+EP  - 271
+DO  - 10.1016/j.future.2018.11.042
+UR  - https://doi.org/10.1016/j.future.2018.11.042
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pico-valencia, Holgado-terriza, Paderewski - 2019 - A systematic method for building Internet of Agents applications based on the Linked.pdf
+ER  - 
+TY  - CONF
+T1  - SMURF : Systematic Methodology for Unveiling Relevant Factors in retrospective data on chronic disease treatments
+A1  - Parrales-Bravo, Franklin.
+A1  - Del-Barrio-García, Alberto A.
+A1  - Gago-Veiga, Beatriz Ana.
+A1  - Gallego, María Mercedes.
+A1  - Ruiz, Marina.
+A1  - Guerrero-Peral, Angel.
+A1  - Dzeroski, Saso.
+A1  - Ayala, José L.
+Y1  - 2019///
+KW  - Data mining
+KW  - classification algorithms.
+KW  - multi-target prediction
+JF  - IEEE Access
+SP  - 1
+EP  - 16
+DO  - 10.1109/ACCESS.2019.2927429
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Bravo et al. - 2019 - SMURF Systematic Methodology for Unveiling Relevant Factors in retrospective data on chronic disease treatments.pdf
+ER  - 
+TY  - CONF
+T1  - Gearbox fault diagnosis based on deep random forest fusion of acoustic and vibratory signals
+A1  - Li, Chuan.
+A1  - Sanchez, René-vinicio.
+A1  - Zurita, Grover.
+A1  - Cerrada, Mariela.
+A1  - Cabrera, Diego.
+A1  - Vásquez, Rafael E.
+Y1  - 2016///
+KW  - Acoustic emission
+KW  - Data fusion
+KW  - Deep learning
+KW  - Gearbox
+KW  - Vibration signal
+PB  - Elsevier
+JF  - Mechanical Systems and Signal Processing
+SP  - 1
+EP  - 11
+DO  - 10.1016/j.ymssp.2016.02.007
+UR  - http://dx.doi.org/10.1016/j.ymssp.2016.02.007
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Li et al. - 2016 - Gearbox fault diagnosis based on deep random forest fusion of acoustic and vibratory signals.pdf
+ER  - 
+TY  - CONF
+T1  - Developing Usability Heuristics with PROMETHEUS: A Case Study in Virtual Learning Environments
+A1  - Figueroa, Ismael.
+A1  - Jim, Cristhy.
+A1  - Allende-cid, Hector.
+A1  - Leger, Paul.
+Y1  - 2019///
+KW  - Heuristics
+KW  - Usability
+JF  - Computer Standards & Interfaces
+DO  - 10.1016/j.csi.2019.03.003
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Figueroa et al. - 2019 - PT US CR.pdf
+ER  - 
+TY  - CONF
+T1  - A System for the Monitoring and Predicting of Data in Precision Agriculture in a Rose Greenhouse Based on Wireless Sensor Networks
+A1  - Rodríguez, Schubert.
+A1  - Gualotuña, Tatiana.
+A1  - Grilo, Carlos.
+Y1  - 2017///
+KW  - Data Mining
+KW  - Greenhouses
+KW  - IOT
+KW  - Precision Agriculture
+KW  - Wireless Sensor Networks
+PB  - Elsevier B.V.
+JF  - Procedia Computer Science
+VL  - 121
+SP  - 306
+EP  - 313
+DO  - 10.1016/j.procs.2017.11.042
+UR  - https://doi.org/10.1016/j.procs.2017.11.042
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Rodríguez, Gualotuña, Grilo - 2017 - ScienceDirect ScienceDirect A System for the Monitoring and Predicting of Data in Precision A Agr.pdf
+ER  - 
+TY  - CONF
+T1  - OER Development and Promotion . Outcomes of an International Research Project on the OpenCourseWare Model
+A1  - Tovar, Edmundo.
+A1  - Piedra, Nelson.
+A1  - Chicaiza, Janneth.
+A1  - López, Jorge.
+A1  - Martinez-Bonastre, Oscar.
+Y1  - 2012///
+KW  - Semantic Web
+KW  - linked data
+KW  - ocw
+KW  - oer
+KW  - open educational resources
+KW  - opencourseware
+KW  - social networks analysis
+JF  - Journal of Univéasesal Computer Science vol. 18, no. 1
+VL  - 18
+IS  - 1
+SP  - 123
+EP  - 141
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Tovar et al. - 2012 - OER Development and Promotion . Outcomes of an International Research Project on the OpenCourseWare Model.pdf
+ER  - 
+TY  - CONF
+T1  - Predicting University Dropout trough Data Mining: A systematic Literature
+A1  - Alban-Taipe, Mayra.
+A1  - Mauricio, David.
+Y1  - 2019///
+KW  - Data Mining
+KW  - Dropout Factors
+KW  - Dropout Prediction.
+KW  - Machine Learning
+JF  - Indian Journal of Science and Technology
+VL  - 12
+IS  - 4
+SP  - 1
+EP  - 12
+DO  - 10.17485/ijst/2019/v12i4/139729
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Alban, Mauricio - 2019 - Predicting University Dropout trough Data Mining A systematic Literature.pdf
+N2  - Objectives: To make a systematic review of literature on the prediction of university student dropout through data mining techniques. Methods/Analysis: The study was developed as a systematic review of the literature of empirical research results regarding the prediction of university dropout. In this phase, the review protocol, the selection requirements for potential studies and the method for analyzing the content of the selected studies were provided. The classification presented in section 3 allowed answering the main research question. What are the aspects considered in the prediction of university student desertion through data mining? Findings: University dropout is a problem which affects universities around the world, with consequences such as reduced enrolment, reduced revenue for the university, and financial losses for the State which funds the studies, and also constitutes a social problem for students, their families, and society in general. Hence the importance of predicting university dropout, that is to say identify dropout students in advance, in order to design strategies to tackle this problem. Novelty /Improvement: This is the first work to perform an integral systematic literature review about university dropout prediction through data mining, with studies from 2006-2018.
+ER  - 
+TY  - THES
+T1  - Aplicación de data mining en la gestión del plan anual de contratación en las universidades públicas del ecuador. Caso de estudio universidad técnica de ambato
+A1  - Nieto-Mora, Luis.
+A1  - Mayorga, Franklin.
+Y1  - 2016///
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Electr et al. - 2016 - INDUSTRIAL.pdf
+ER  - 
+TY  - CONF
+T1  - Virtual assistant for IoT process management, using a middleware
+A1  - Chilcañán, David.
+A1  - Navas, Patricio.
+A1  - Escobar, Milton.
+Y1  - 2018///
+KW  - Chatbot
+KW  - IoT.
+KW  - Natural language processing
+KW  - Virtual assistant
+JF  - ACM International Conference Proceeding Series
+SP  - 209
+EP  - 213
+SN  - 9781450365093
+DO  - 10.1145/3242840.3242875
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Chilcañán, Navas, Escobar - 2018 - Virtual assistant for IoT process management, using a middleware.pdf
+N2  - The implementation of virtual assistants, the automation of homes, smart cities, management of remote sensors, among other technologies related to the internet of things (IoT). They allow to improve the control, monitoring and management of your processes. The present research work employs a Message Oriented Middleware (MOM) for interconnecting devices allowing to monitor the domestic energy consumption of a household (KWH, fees to be paid by day, week, month) in real time, using a wizard virtual (chatbot) which facilitates the Administration and control of the connected electrical devices. Through a combination of ubiquitous distributed sensing units. Adding data, reasoning and awareness of the context. © 2018 Association for Computing Machinery.
+ER  - 
+TY  - CONF
+T1  - Real-time transient stability assessment based on centre-of-inertia estimation from phasor measurement unit records
+A1  - Cepeda, Jaime C.
+A1  - Rueda, José L.
+A1  - Colomé, Delia G.
+A1  - Echeverría, Diego E.
+Y1  - 2014///
+KW  - SVM
+JF  - IET Generation, Transmission & Distribution Volume: 8
+IS  - December 2013
+DO  - 10.1049/iet-gtd.2013.0616
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Cepeda et al. - 2014 - Real-time transient stability assessment based on centre-of-inertia estimation from phasor measurement unit recor.pdf
+ER  - 
+TY  - CONF
+T1  - Spur Gear Fault Diagnosis Using a Multilayer Gated Recurrent Unit Approach With Vibration Signal
+A1  - Tao, Ying.
+A1  - Wang, Xiaodan.
+A1  - Sánchez, René-vinicio.
+A1  - Yang, Shuai.
+A1  - Bai, Yun.
+Y1  - 2019///
+JF  - IEEE Access
+VL  - 7
+DO  - 10.1109/ACCESS.2019.2914181
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Tao et al. - 2019 - Spur Gear Fault Diagnosis Using a Multilayer Gated Recurrent Unit Approach With Vibration Signal.pdf
+ER  - 
+TY  - CONF
+T1  - Incremental scenario representations for autonomous driving using geometric polygonal primitives
+A1  - Oliveira, Miguel.
+A1  - Santos, Víctor.
+A1  - Sappa, Angel D.
+A1  - Dias, Paulo.
+A1  - Moreira, A Paulo.
+Y1  - 2016///
+KW  - Visión Artificial
+KW  - incremental scene reconstruction
+PB  - Elsevier B.V.
+JF  - Robotics and Autonomous Systems
+DO  - 10.1016/j.robot.2016.05.011
+UR  - http://dx.doi.org/10.1016/j.robot.2016.05.011
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Oliveira et al. - Unknown - Incremental scenario representations for autonomous driving using geometric polygonal primitives.pdf
+ER  - 
+TY  - CONF
+T1  - Model-Based Fault-Tolerant Control to Guarantee the Performance of a Hybrid Wind-Diesel Power System in a Microgrid Configuration
+A1  - Vargas-martínez, Adriana.
+A1  - Minchala-Avila, Luis Ismael.
+A1  - Zhang, Youmin.
+A1  - Garza-castañón, Luis Eduardo.
+A1  - Calle-Ortiz, Robinson Eduardo.
+Y1  - 2013///
+KW  - Artificial Intelligence
+KW  - Distributed Generation
+KW  - Fault-tolerant Control
+KW  - Microgrids
+PB  - Elsevier B.V.
+JF  - Procedia - Procedia Computer Science
+VL  - 19
+IS  - Seit
+SP  - 712
+EP  - 719
+DO  - 10.1016/j.procs.2013.06.094
+UR  - http://dx.doi.org/10.1016/j.procs.2013.06.094
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Vargas-martínez et al. - 2013 - Model-Based Fault-Tolerant Control to Guarantee the Performance of a Hybrid Wind-Diesel Power System in.pdf
+ER  - 
+TY  - CONF
+T1  - Material distribution with mobile robots in an industrial environment: System design and simulation
+A1  - Grijalva, Gabriel.
+A1  - Chávez, Danilo.
+A1  - Camacho, Oscar.
+Y1  - 2018///
+KW  - Matlab simulation
+KW  - intralogistics
+KW  - mobile robots
+KW  - path planning
+PB  - Elsevier B.V.
+JF  - IFAC-PapersOnLine
+VL  - 51
+IS  - 13
+SP  - 650
+EP  - 655
+DO  - 10.1016/j.ifacol.2018.07.354
+UR  - https://doi.org/10.1016/j.ifacol.2018.07.354
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Grijalva et al. - 2018 - ScienceDirect.pdf
+ER  - 
+TY  - CONF
+T1  - Computer Vision for detection of body expressions of children with cerebral palsy
+A1  - Rosales, Cristhian.
+A1  - Jácome, Luis.
+A1  - Carrión, Jorge.
+A1  - Jaramillo, Carlos.
+A1  - Palma, Mario.
+Y1  - 2017///
+KW  - Artificial Intelligence
+KW  - Cerebral Palsy
+KW  - Computer Vision
+KW  - Machine Learning
+KW  - OpenCV
+JF  - 2017 IEEE 2nd Ecuador Technical Chapters Meeting, ETCM 2017
+SP  - 1
+EP  - 6
+SN  - 9781538638941
+DO  - 10.1109/ETCM.2017.8247528
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Rosales et al. - 2018 - Computer vision for detection of body expressions of children with cerebral palsy.pdf
+N2  - The assembly of lamella-forming block copolymer blend thin films on chemically nanopatterned striped surfaces was monitored in real time with small angle x-ray scattering (SAXS) in transmission mode. The strongest diffraction from the assembled grating structure was detected after 4.5 min of annealing as the temperature was ramped from 100 to 240 degrees C at a rate of about 20 degrees C/min. Real-space images were also obtained from samples annealed for specific times using top-down scanning electron microscopy (SEM) and this identified structures formed during annealing that are unique to the block copolymer blends. The data are compared to previously reported SEM and molecular simulation studies with pure block copolymers. Because it can be used in real time and probes the entire film thickness, transmission SAXS proved to be a useful tool for better understanding the block copolymer annealing process.
+ER  - 
+TY  - CONF
+T1  - Estimating the Rician noise level in brain MR image
+A1  - Perez, Maria G.
+A1  - Conci, Aura.
+A1  - Moreno, Ana Belen.
+A1  - Andaluz, Victor H.
+A1  - Hernandez, Juan A.
+Y1  - 2015///
+KW  - Image registration
+KW  - signal noise ratio.
+JF  - 2014 IEEE ANDESCON
+SP  - 1
+EP  - 1
+DO  - 10.1109/andescon.2014.7098539
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pereza et al. - 2015 - Estimating the Rician noise level in brain MR image.pdf
+N2  - Estimation of the noise level in images is very important to assess the quality of the acquisition and to allow an efficient analysis. Moreover, it is a fundamental step, an indispensable procedure for many type of denoises and image processing. In this paper a new method to estimate the noise level in MR images is presented and evaluated. The advantage of this is the easiness for utilization during image acquisition and of course the adaptability of the idea of other areas of body. The correctness of the evaluation is addressed by comparison of Atlas noise free images where the level of Rician noise was artificially added and known. The main idea is the matching of same slices after registration in order to evaluate the level of noise. For evaluation of the range of noise in an image we used the signal noise ratio – SNR and a set of MRI with increasing levels of Rician noise. However, others metrics like the normalized cross correlation -NCC or the Root Mean Squared Error (RMSE) could be used as well.
+ER  - 
+TY  - CONF
+T1  - Identifying polarity in financial texts for sentiment analysis : a corpus-based approach
+A1  - Moreno-Ortiz, Antonio.
+A1  - Fernández-Cruz, Javier.
+Y1  - 2015///
+KW  - Big Data
+KW  - Sentiment analysis
+KW  - specialized languages
+KW  - terminology
+PB  - Elsevier B.V.
+JF  - Procedia Social and Behavioral Sciences
+VL  - 198
+SP  - 330
+EP  - 338
+DO  - 10.1016/j.sbspro.2015.07.451
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Moreno-ortiz, Fernández-cruz - 2015 - Identifying polarity in financial texts for sentiment analysis a corpus-based approach.pdf
+ER  - 
+TY  - CONF
+T1  - Smart Sensor : SoC architecture for the Industrial Internet of Things
+A1  - Urbina, Marcelo.
+A1  - Acosta, Tatiana.
+A1  - Lazaro, Jesús.
+A1  - Astarloa, Armando.
+A1  - Unai, Bidarte.
+Y1  - 2019///
+PB  - IEEE
+JF  - IEEE Internet of Things Journal
+SP  - 1
+EP  - 11
+DO  - 10.1109/JIOT.2019.2908264
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Urbina, Acosta - 2019 - Smart Sensor SoC architecture for the Industrial Internet of Things.pdf
+ER  - 
+TY  - CONF
+T1  - Dynamic profiles using sentiment analysis and twitter data for voting advice applications
+A1  - Terán, Luis.
+A1  - Mancera, José.
+Y1  - 2019///
+KW  - Big data
+KW  - Dynamic profiles
+KW  - Recommender systems
+KW  - Sentiment analysis
+KW  - Voting advice applications
+PB  - Elsevier
+JF  - Government Information Quarterly
+IS  - March
+SP  - 1
+EP  - 16
+DO  - 10.1016/j.giq.2019.03.003
+UR  - https://doi.org/10.1016/j.giq.2019.03.003
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Terán, Mancera - 2019 - Dynamic profiles using sentiment analysis and twitter data for voting advice applications.pdf
+ER  - 
+TY  - CONF
+T1  - Characterizing Influential Leaders of Ecuador on Twitter Using Computational Intelligence
+A1  - Torres, Johnny.
+A1  - Baquerizo, Gabriela.
+A1  - Vaca, Carmen.
+A1  - Peláez, Enrique.
+Y1  - 2016///
+JF  - Third International Conference on eDemocracy & eGovéasenment (ICEDEG)
+SP  - 159
+EP  - 163
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Pel - Unknown - Characterizing Influential Leaders of Ecuador on Twitter Using Computational Intelligence.pdf
+ER  - 
+TY  - CONF
+T1  - Impact reduction potential by usage anticipation under comfort trade-off conditions
+A1  - Kellens, Karel.
+A1  - Duflou, Joost R.
+A1  - Auquilla, Andres.
+A1  - Bock, Yannick De.
+A1  - Nowe, Ann.
+Y1  - 2016///
+KW  - Energy efficiency
+KW  - Pattern recognition
+JF  - CIRP Annals Manufacturing Technology
+VL  - 65
+SP  - 33
+EP  - 36
+DO  - 10.1016/j.cirp.2016.04.087
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Kellens et al. - 2016 - CIRP Annals - Manufacturing Technology Impact reduction potential by usage anticipation under comfort trade-off.pdf
+ER  - 
+TY  - CONF
+T1  - Combining statistical and semantic approaches to the translation of ontologies and taxonomies
+A1  - McCrae, John.
+A1  - Espinoza, Mauricio.
+A1  - Montiel-Ponsoda, Elena.
+A1  - Aguado-de-Cea, Guadalupe.
+A1  - Cimiano, Philipp.
+Y1  - 2011///
+KW  - Artificial Neural Networks
+JF  - Acl Hlt 2011
+IS  - June
+SP  - 116
+EP  - 116
+UR  - http://aclweb.org/anthology-new/W/W11/W11-10.pdf#page=130
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/McCrae et al. - 2011 - Combining statistical and semantic approaches to the translation of ontologies and taxonomies.pdf
+N2  - Ontologies and taxonomies are widely used to organize concepts providing the basis for activities such as indexing, and as background knowledge for NLP tasks. As such, translation of these resources would prove useful to adapt these systems to new languages. However, we show that the nature of these resources is significantly different from the "free-text" paradigm used to train most statistical machine translation systems. In particular, we see significant differences in the linguistic nature of these resources and such resources have rich additional semantics. We demonstrate that as a result of these linguistic differences, standard SMT methods, in particular evaluation metrics, can produce poor performance. We then look to the task of leveraging these semantics for translation, which we approach in three ways: by adapting the translation system to the domain of the resource; by examining if semantics can help to predict the syntactic structure used in translation; and by evaluating if we can use existing translated taxonomies to disambiguate translations. We present some early results from these experiments, which shed light on the degree of success we may have with each approach.
+ER  - 
+TY  - CONF
+T1  - Cognitive security : A comprehensive study of cognitive science in cybersecurity
+A1  - Andrade, Roberto O.
+A1  - Yoo, Sang Guun.
+Y1  - 2019///
+KW  - Big Data
+KW  - Cognitive science
+KW  - Cognitive security
+PB  - Elsevier Ltd
+JF  - Journal of Information Security and Aplications
+VL  - 48
+DO  - 10.1016/j.jisa.2019.06.008
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Andrade, Yoo - 2019 - Journal of Information Security and Applications Cognitive security A comprehensive study of cognitive science in.pdf
+ER  - 
+TY  - BOOK
+T1  - Inteligencia artificial: Principios y aplicaciones
+A1  - Banda, Hugo A.
+Y1  - 2014///
+KW  - Artificial Neural Networks
+KW  - Inteligencia Artificial
+KW  - Machine learning
+SP  - 1
+EP  - 231
+UR  - https://www.academia.edu/4232917/INTELIGENCIA_ARTIFICIAL_PRINCIPIOS_Y_APLICACIONESInformacion_del_Autor
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Banda - 2014 - Inteligencia artificial Principios y aplicaciones.pdf
+N2  - En esta unidad se presentan elementos del marco referencial de la inteligencia artificial; y, partiendo de una breve visión retrospectiva, un análisis actual y futuro de este campo científico relativamente joven. La inteligencia artificial (IA) es una disciplina muy amplia que comprende tópicos que van desde la filosofía hasta la ciencia y la tecnología. Esto implica que para sistematizar el estudio, es necesario incorporar un marco referencial que facilite la identificación de bloques de conocimiento que vayan aportando a la comprensión de la complejidad teórica, conceptual y contextual de la inteligencia artificial.
+ER  - 
+TY  - CONF
+T1  - Evaluation of a Few Interpolation Techniques of Gravity Values in the Border Region of Brazil and Argentina
+A1  - Pereira, R A D.
+A1  - De-Freitas, S R C.
+A1  - Ferreira, V G.
+A1  - Faggion, P L.
+A1  - Dos-Santos, D P.
+A1  - Luz, R T.
+A1  - Tierra-Criollo, A R.
+A1  - Del-Cogliano, D.
+Y1  - 2012///
+KW  - Artificial Neural Networks
+JF  - International Association of Geodesy Symposia
+VL  - 136
+SN  - 9783642203374
+DO  - 10.1007/978-3-642-20338-1
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Kenyon, Pacino, Mart - 2012 - Geodesy for Planet Earth Proceedings of the 2009 IAG Symposium, Buenos Aires, Argentina, 31 August 31 - 4.pdf
+N2  - These proceedings include the written version of 130 papers presented at the International Association of Geodesy IAG2009 "Geodesy for Planet Earth" Scientific Assembly. It was held 31 August to 4 September 2009 in Buenos Aires, Argentina. The theme "Geodesy for Planet Earth" was selected to follow the International Year of Planet Earth 2007-2009 goals of utilizing the knowledge of the world’s geoscientists to improve society for current and future generations. The International Year started in January 2007 and ran thru 2009 which coincided with the IAG2009 Scientific Assembly, one of the largest and most significant meetings of the Geodesy community held every 4 years. The IAG2009 Scientific Assembly was organized into eight Sessions. Four of the Sessions of IAG2009 were based on the IAG Structure (i.e. one per Commission) and covered Reference Frames, Gravity Field, Earth Rotation and Geodynamics, and Positioning and Applications. Since IAG2009 was taking place in the great Argentine city of Buenos Aires, a Session was devoted to the Geodesy of Latin America. A Session dedicated to the IAG’s Global Geodetic Observing System (GGOS), the primary observing system focused on the multidisciplinary research being done in Geodesy that contributes to important societal issues such as monitoring global climate change and the environment. A Session on the IAG Services was also part of the Assembly detailing the important role they play in providing geodetic data, products, and analysis to the scientific community. A final Session devoted to the organizations ION, FIG, and ISPRS and their significant work in navigation and earth observation that complements the IAG.
+ER  - 
+TY  - CONF
+T1  - Revisión sistemática de literatura: Análisis de riesgos utilizando Redes Bayesianas
+A1  - Pereira-Paredes, Carlos Patricio.
+A1  - Cumbicus-Pineda, Oscar M.
+Y1  - 2017///
+KW  - bayes theorem
+KW  - bayesian inference
+KW  - bayesian networks
+KW  - risk analysis
+KW  - systematic review
+JF  - Conferencia: II Jornada de Investigación - Ciencia, Tecnología y SociedadEn: Pontificia Universidad Católica del Ecuador Sede Esmeraldas
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Paredes, Cumbicus - 2017 - “ Revisión sistemática de literatura Análisis de riesgos utilizando Redes Bayesianas ”.pdf
+ER  - 
+TY  - CONF
+T1  - Maintenance models applied to wind turbines. A comprehensive overview
+A1  - Merizalde, Yuri.
+A1  - Hernández-Callejo, Luis.
+A1  - Duque-Perez, Oscar.
+A1  - Alonso-Gómez, Víctor.
+Y1  - 2019///
+KW  - Artificial Neural Networks
+KW  - Prediction
+KW  - Strategy and maintenance tactics
+JF  - Energies
+VL  - 12
+IS  - 2
+SP  - 1
+EP  - 41
+DO  - 10.3390/en12020225
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Merizalde et al. - 2019 - Maintenance models applied to wind turbines. A comprehensive overview.pdf
+N2  - Wind power generation has been the fastest-growing energy alternative in recent years, however, it still has to compete with cheaper fossil energy sources. This is one of the motivations to constantly improve the efficiency of wind turbines and develop new Operation and Maintenance (O&M) methodologies. The decisions regarding O&M are based on different types of models, which cover a wide range of scenarios and variables and share the same goal, which is to minimize the Cost of Energy (COE) and maximize the profitability of a wind farm (WF). In this context, this review aims to identify and classify, from a comprehensive perspective, the different types of models used at the strategic, tactical, and operational decision levels of wind turbine maintenance, emphasizing mathematical models (MatMs). The investigation allows the conclusion that even though the evolution of the models and methodologies is ongoing, decision making in all the areas of the wind industry is currently based on artificial intelligence and machine learning models.
+ER  - 
+TY  - CONF
+T1  - What ignites a reply? Characterizing conversations in microblogs
+A1  - Torres, Johnny.
+A1  - Vaca, Carmen.
+A1  - Abad, Cristina L.
+Y1  - 2017///
+KW  - Machine learning
+KW  - Social Computing
+JF  - BDCAT 2017 - Proceedings of the 4th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies
+SP  - 149
+EP  - 156
+SN  - 9781450355490
+DO  - 10.1145/3148055.3148071
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Torres, Vaca, Abad - 2017 - What ignites a reply Characterizing conversations in microblogs.pdf
+ER  - 
+TY  - CONF
+T1  - From E-911 to NG-911 : Overview and Challenges in Ecuador
+A1  - Corral-de-witt, Danilo.
+A1  - Carrera, Enrique V.
+A1  - Matamoros-Vargas, José A.
+A1  - Muñoz-Romero, Sergio.
+A1  - Rojo-Álvarez, José Luis.
+Y1  - 2018///
+JF  - IEEE Access
+VL  - 6
+SP  - 42578
+EP  - 42591
+DO  - 10.1109/ACCESS.2018.2858751
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Corral-de-witt et al. - 2018 - From E-911 to NG-911 Overview and Challenges in Ecuador.pdf
+ER  - 
+TY  - CONF
+T1  - Using Smart Meter Data to Improve the Accuracy of Intraday Load Forecasting Considering Customer Behavior Similarities
+A1  - Quilumba, Franklin L.
+A1  - Lee, Wei-jen.
+A1  - Huang, Heng.
+A1  - Wang, David Y.
+A1  - Szabados, Robert L.
+Y1  - 2014///
+KW  - k-means clustering
+KW  - load forecasting
+JF  - IEEE Transactions on Smart Grid
+SP  - 1
+EP  - 8
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Quilumba et al. - 2014 - Using Smart Meter Data to Improve the Accuracy of Intraday Load Forecasting Considering Customer Behavior Simil.pdf
+ER  - 
+TY  - CONF
+T1  - Neural based contingent valuation of road traffic noise
+A1  - Bravo-moncayo, Luis.
+A1  - Naranjo, José Lucio.
+A1  - Pavón-Garcia, Ignacio.
+A1  - Mosquera, Roberto.
+Y1  - 2017///
+KW  - Artificial Neural Networks
+KW  - contingent valuation
+PB  - Elsevier Ltd
+JF  - Transportation Research Part D
+VL  - 50
+SP  - 26
+EP  - 39
+DO  - 10.1016/j.trd.2016.10.020
+UR  - http://dx.doi.org/10.1016/j.trd.2016.10.020
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Bravo-moncayo et al. - 2017 - Neural based contingent valuation of road traffic noise.pdf
+ER  - 
+TY  - CONF
+T1  - Artificial Neural Network Applied like Qualifier of Symptoms in Patients with Parkinson’s Disease by Evaluating the Movement of Upper-Limbs Activities
+A1  - Bermeo, J. P.
+A1  - Huerta, M.
+A1  - Bravo, M.
+A1  - Bermeo, A.
+Y1  - 2018///
+KW  - Artificial Neural Networks
+KW  - MDS-
+KW  - Parkinson’s disease
+PB  - Springer Singapore
+JF  - Biomedizinische Technik
+VL  - 27
+IS  - 10
+SP  - 226
+EP  - 228
+SN  - 9789811090387
+DO  - 10.1515/bmte.1982.27.10.226
+UR  - http://dx.doi.org/10.1007/978-981-10-9038-7_77
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Hessen - 1982 - World Congress on Medical Physics and Biomedical Engineering.pdf
+N2  - We report a multi parameters cardiopulmonary (CP) monitoring system with\nfeatures of low power consumptions (40 mA,3.7V), miniaturization (size\n6x5 cm2), and multi wireless data communication channels (Frequency\n315,432,916 MHz) for wearable applications in e-Health. Its target\napplication is for the evaluation health of CP on Homecare, Patient\nIsolation and quarantine, Recreational sports market. We use a miniature\nbi-directional hot-wire sensor for respiratory function, an optical\nsensor for s plethsymograph, and two surface electrodes for single lead\nelectrocardiograph. The parameters include Pulse, ECG, and respiratory\nfunctions, which will he used for the quantitative evaluation of heart\nrate, pulse rate and respiratory rate.
+ER  - 
+TY  - CONF
+T1  - Modelo Neuronal de Estimación para el Esfuerzo de Desarrollo en Proyectos de Software (MONEPS)
+A1  - Almache-C, Mario G.
+A1  - Ruiz-R, Jenny A.
+A1  - Raura, Geovanny.
+A1  - Fonseca-C, Efraín R.
+Y1  - 2015///
+KW  - Artificial Neural Networks
+KW  - Inteligencia Artificial
+JF  - XI Jornadas Iberoamericanas de Ingenieria de Software e Ingenieria del Conocimiento, JIISIC 2015
+SP  - 133
+EP  - 146
+SN  - 9781510802087
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Almache C. et al. - 2015 - Modelo neuronal de estimación para el Esfuerzo de desarrollo en proyectos de software (MONEPS).pdf
+N2  - La estimación temprana del esfuerzo para la construcción de un producto software, es crucial en la previsión del costo y tiempo necesarios para su desarrollo. Los modelos y técnicas para la estimación del esfuerzo presentan como principal inconveniente, la poca precisión en las predicciones realizadas y generalmente se hace una mínima consideración de los aspectos no funcionales del software. Se propone la construcción de un modelo de estimación para el esfuerzo en el desarrollo de software denominado MONEPS, que pretende mejorar la precisión en la estimación del esfuerzo, utilizando una Red Neuronal Artificial (RNA) en Backpropagation, cuya capa de entrada se estructura sobre la base de un conjunto de características y atributos tomados de la norma ISO/IEC 25000 de la calidad del software. La RNA fue entrenada con datos recopilados de aplicaciones desarrolladas en el ámbito académico, de las cuales se conocían sus tiempos de desarrollo y costos asociados. Las estimaciones de tiempo y costo, para dos casos de prueba, muestran más precisión en el modelo neuronal, en comparación con los modelos Cocomo-81 y Cocomo-II. MONEPS ha logrado la convergencia de aspectos funcionales y no funcionales para mejorar la precisión en la estimación del esfuerzo en proyectos de software.
+ER  - 
+TY  - CONF
+T1  - Real-time false-contours removal for inverse tone mapped HDR content
+A1  - Luzardo, Gonzalo.
+A1  - Aelterman, Jan.
+A1  - Luong, Hiep.
+A1  - Philips, Wilfried.
+A1  - Ochoa, Daniel.
+Y1  - 2017///
+JF  - MM 2017 - Proceedings of the 2017 ACM Multimedia Conference
+SP  - 1472
+EP  - 1479
+SN  - 9781450349062
+DO  - 10.1145/3123266.3123400
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Luzardo et al. - 2017 - Real-time false-contours removal for inverse tone mapped HDR content.pdf
+ER  - 
+TY  - CONF
+T1  - Detection of utility poles from noisy Point Cloud Data in Urban environments
+A1  - Ferrin, Alex.
+A1  - Larrea, Julio.
+A1  - Realpe, Miguel.
+A1  - Ochoa, Daniel.
+Y1  - 2018///
+KW  - Artificial Neural Networks
+KW  - Point Cloud
+KW  - Pole Detection
+JF  - ACM International Conference Proceeding Series
+IS  - Figure 1
+SP  - 53
+EP  - 57
+SN  - 9781450366236
+DO  - 10.1145/3299819.3299829
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ferrin et al. - 2018 - Detection of utility poles from noisy Point Cloud Data in Urban environments.pdf
+ER  - 
+TY  - CONF
+T1  - Prediction model based on neural networks for microwave drying process of amaranth seeds
+A1  - Bravo, Silvia.
+A1  - Moreno, Ángel H.
+Y1  - 2019///
+KW  - Artificial Neural Networks
+KW  - Microwave drying
+KW  - Prediction model
+JF  - ACM International Conference Proceeding Series
+SP  - 88
+EP  - 93
+SN  - 9781450366342
+DO  - 10.1145/3314545.3314551
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Bravo, Moreno - 2019 - Prediction model based on neural networks for microwave drying process of amaranth seeds.pdf
+N2  - In this work, a model has been developed for the prediction of the fundamental variables of the microwave oven drying of amaranth seeds, using the initial mass of the seeds and the temperature of the process as input data. The model was developed by using the Python programming language, the Sklearn machine learning library for data analysis, and the MLPRegressor predictor for model training. The data used in the created dataset was obtained from the measurements made of the drying time and the energy consumption in the drying experiments carried out at three temperatures (35, 45, 55 °C) in a domestic microwave oven, as well as the germination rate of amaranth seeds obtained in the germination tests. The accuracy achieved in the predictions made by the model is 99.5% for the drying time, 98.2% for energy consumption and between 89.2% and 84.1% for the germination rate of the seeds
+ER  - 
+TY  - CONF
+T1  - Determination of egg storage time at room temperature using a low-cost NIR spectrometer and machine learning techniques
+A1  - Coronel-reyes, Julian.
+A1  - Ramirez-morales, Ivan.
+A1  - Fernandez-blanco, Enrique.
+A1  - Rivero, Daniel.
+A1  - Pazos, Alejandro.
+Y1  - 2018///
+KW  - Machine learning
+KW  - Non-destructive
+PB  - Elsevier
+JF  - Computers and Electronics in Agriculture
+VL  - 145
+SP  - 1
+EP  - 10
+DO  - 10.1016/j.compag.2017.12.030
+UR  - https://doi.org/10.1016/j.compag.2017.12.030
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Coronel-reyes et al. - 2018 - Determination of egg storage time at room temperature using a low-cost NIR spectrometer and machine learni.pdf
+ER  - 
+TY  - CONF
+T1  - Automatic Feature Extraction of Time-Series applied to Fault Severity Assessment of Helical Gearbox in Stationary and Non-Stationary Speed Operation
+A1  - Cabrera, Diego.
+A1  - Sancho, Fernando.
+A1  - Li, Chuan.
+A1  - Cerrada, Mariela.
+A1  - Sánchez, René Vinicio
+A1  - Pacheco, Fannia.
+A1  - Oliveira, José Valente de.
+Y1  - 2017///
+KW  - Deep learning
+KW  - Machine learning
+KW  - convolution
+JF  - Applied Soft Computing Journal
+DO  - 10.1016/j.asoc.2017.04.016
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Operation et al. - 2017 - Ac ce p te d cr t.pdf
+ER  - 
+TY  - CONF
+T1  - The potential of non-invasive pre- and post-mortem carcass measurements to predict the contribution of carcass components to slaughter yield of guinea pigs
+A1  - Barba, Lida.
+A1  - Sánchez-macías, Davinia.
+A1  - Barba, Iván.
+A1  - Rodríguez, Nibaldo.
+Y1  - 2018///
+KW  - Carcass quality
+KW  - Guinea pig
+KW  - Machine learning
+KW  - Prediction model
+PB  - Elsevier
+JF  - Meat Science
+VL  - 140
+SP  - 59
+EP  - 65
+DO  - 10.1016/j.meatsci.2018.02.019
+UR  - https://doi.org/10.1016/j.meatsci.2018.02.019
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Barba, Sánchez-macías - 2018 - The potential of non-invasive pre- and post-mortem carcass measurements to predict the contribution of.pdf
+ER  - 
+TY  - CONF
+T1  - Improving Cluster-based Methods for Usage Anticipation by the Application of Data Transformations
+A1  - Auquilla, Andrés.
+A1  - De-Book, Yannick.
+A1  - Duflou, Joost R.
+Y1  - 2018///
+KW  - Cluster detection
+KW  - Machine learning
+KW  - dimensionality reduction
+PB  - Elsevier B.V.
+JF  - Procedia Manufacturing
+VL  - 24
+SP  - 166
+EP  - 172
+DO  - 10.1016/j.promfg.2018.06.044
+UR  - https://doi.org/10.1016/j.promfg.2018.06.044
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Iot - 2018 - ScienceDirect ScienceDirect Improving Cluster-based Methods for Usage Anticipation by the Improving Cluster-based for Usage.pdf
+ER  - 
+TY  - CONF
+T1  - Pruning strategies for nearest neighbor competence preservation learners
+A1  - Angiulli, Fabrizio.
+A1  - Narvaez, Estela.
+Y1  - 2018///
+KW  - Classification
+KW  - Machine learning
+KW  - Nearest neighbor rule
+PB  - Elsevier B.V.
+JF  - Neurocomputing
+SP  - 1
+EP  - 13
+DO  - 10.1016/j.neucom.2018.04.017
+UR  - https://doi.org/10.1016/j.neucom.2018.04.017
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Angiulli, Narvaez - 2018 - Pruning strategies for nearest neighbor competence preservation learners.pdf
+ER  - 
+TY  - CONF
+T1  - A general framework for intelligent recommender systems
+A1  - Aguilar, José.
+A1  - Valdiviezo-Díaz, Priscila.
+A1  - Riofrio, Guido.
+Y1  - 2017///
+KW  - Cognitive maps
+KW  - Machine learning
+JF  - Appied Computing and Informatics
+SP  - 147
+EP  - 160
+DO  - 10.1016/j.aci.2016.08.002
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Aguilar, Valdiviezo-dı, Riofrio - 2017 - ORIGINAL ARTICLE A general framework for intelligent recommender systems.pdf
+ER  - 
+TY  - CONF
+T1  - Mapping Two Competing Grassland Species from a Low-Altitude Helium Balloon
+A1  - Silva, Brenner.
+A1  - Lehnert, Lukas.
+A1  - Roos, Kristin.
+A1  - Fries, Andreas.
+A1  - Rollenbeck, Rütger.
+A1  - Beck, Erwin.
+A1  - Bendix, Jörg.
+Y1  - 2014///
+KW  - Machine learning
+KW  - vegetation mapping
+JF  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE J-STARS)
+VL  - 7
+IS  - 7
+SP  - 3038
+EP  - 3049
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Silva et al. - 2014 - from a Low-Altitude Helium Balloon.pdf
+ER  - 
+TY  - CONF
+T1  - Prediction of Digital Terrestrial Television Coverage Using Machine Learning Regression
+A1  - Garcia-Moreta, Carla E.
+A1  - Camana-Acosta, Mario R.
+A1  - Koo, Insoo.
+Y1  - 2019///
+KW  - Machine learning
+KW  - K-nearest neighbors (KNN)
+PB  - IEEE
+JF  - IEEE Transactions on Broadcasting
+SP  - 1
+EP  - 11
+DO  - 10.1109/TBC.2019.2901409
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Moreta, Acosta, Koo - 2019 - Using Machine Learning Regression.pdf
+ER  - 
+TY  - THES
+T1  - Detección de técnicas de aprendizaje profundo aplicadas en las diferentes áreas del conocimiento, empleando el método de revisión sistemática de literatura
+A1  - Suntaxi-Sarango, Martha C.
+A1  - Ordoñez-Ordoñez, Pablo F.
+Y1  - 2019///
+KW  - Deep Learning
+KW  - Machine learning
+SP  - 1
+EP  - 38
+L1  - file:///Users/miguelcabrera/Dropbox/Thesis sections/Clasificacion de articulos/EP validos/Google45/Suntaxi(2019).pdf
+ER  - 
+TY  - CONF
+T1  - MLA'14 - Third multimodal learning analytics workshop and grand challenges
+A1  - Ochoa, Xavier.
+A1  - Worsley, Marcelo.
+A1  - Chiluiza, Katherine.
+A1  - Luz, Saturnino.
+Y1  - 2014///
+KW  - Data mining
+KW  - Learning analytics
+KW  - Multimodal interaction
+JF  - ICMI 2014 - Proceedings of the 2014 International Conference on Multimodal Interaction
+SP  - 531
+EP  - 532
+SN  - 9781450328852
+DO  - 10.1145/2663204.2668318
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ochoa et al. - 2014 - MLA'14 - Third multimodal learning analytics workshop and grand challenges.pdf
+N2  - This paper summarizes the third Multimodal Learning Analytics Workshop and Grand Challenges (MLA'14). This subfield of Learning Analytics focuses on the interpretation of the multimodal interactions that occurs in learning environments, both digital and physical. This is a hybrid event that includes presentations about methods and techniques to analyze and merge the different signals captured from these environments (workshop session) and more concrete results from the application of Multimodal Learning Analytics techniques to predict the performance of students while solving math problems or presenting in the classroom (challenges sessions). A total of eight articles will be presented in this event. The main conclusion from this event is that Multimodal Learning Analytics is a desirable research endeavour that could produce results that can be currently applied to improve the learning process. Copyright 2014 ACM.
+ER  - 
+TY  - CONF
+T1  - A Systematic Review of Deep Learning Approaches to Educational Data Mining
+A1  - Hernández-Blanco, Antonio.
+A1  - Herrera-Flores, Boris.
+A1  - Tomás, David.
+A1  - Navarro-Colorado, Borja.
+Y1  - 2019///
+KW  - Machine learning
+JF  - Complexity Hindawi
+SP  - 1
+EP  - 22
+DO  - 10.1155/2019/1306039
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Hernández-Blanco et al. - 2019 - A Systematic Review of Deep Learning Approaches to Educational Data Mining.pdf
+N2  - Educational Data Mining (EDM) is a research field that focuses on the application of data mining, machine learning, and statistical methods to detect patterns in large collections of educational data. Different machine learning techniques have been applied in this field over the years, but it has been recently that Deep Learning has gained increasing attention in the educational domain. Deep Learning is a machine learning method based on neural network architectures with multiple layers of processing units, which has been successfully applied to a broad set of problems in the areas of image recognition and natural language processing. This paper surveys the research carried out in Deep Learning techniques applied to EDM, from its origins to the present day. The main goals of this study are to identify the EDM tasks that have benefited from Deep Learning and those that are pending to be explored, to describe the main datasets used, to provide an overview of the key concepts, main architectures, and configurations of Deep Learning and its applications to EDM, and to discuss current state-of-the-art and future directions on this area of research.
+ER  - 
+TY  - CONF
+T1  - Ontology Model for the Knowledge Management in the Agricultural Teaching at the UAE
+A1  - Muñoz-García, Ana.
+A1  - Del-Cioppo-Morstadt, Francisco.
+A1  - Bucaram-Leverone, Martha.
+Y1  - 2017///
+KW  - Ambient intelligence
+KW  - Data mining
+KW  - Learning analytics
+KW  - Smart classroom
+JF  - Communications in Computer and Information Science
+VL  - 749
+IS  - January 2019
+SP  - 0
+EP  - 15
+SN  - 978-3-319-67282-3
+DO  - 10.1007/978-3-319-67283-0
+UR  - http://link.springer.com/10.1007/978-3-319-67283-0
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Aguilar et al. - 2017 - Technologies and Innovation.pdf
+N2  - In this paper, we propose the utilization of the “Learning Analytics” paradigm in a Smart Classroom, a classroom that integrates artificial intelligence technology on the educational process. Learning Analytics can extract knowledge from the Smart Classroom platform, to better understand students and his/her learning processes. In this way, a Smart Classroom can understand and optimize the learning process and the teaching environments proposed. The smart classroom can adapt its components to improve students’ performance, among other aspects. Particularly, this paper proposes a framework about how the Learning Analytics paradigm can be used in a Smart Classroom, in order to provide knowledge about the activities taking place within it. The framework is defined like a closed cycle of Learning Analytics tasks, which generate metrics used like feedback to optimize the pedagogical model proposed by the smart Classroom. The metrics evaluate the learning process and pedagogical practice provided by the smart Classroom. So, our main contribution is about how the Learning Analytics paradigm can be used in a Smart Classroom in order to improve the students’ performance.
+ER  - 
+TY  - JOUR
+T1  - Caso de estudio. Perspectivas del uso de herramientas de aprendizaje automático y cómputo de alto rendimiento en investigación científica por parte de estudiantes de pregrado en una universidad del Ecuador
+A1  - Méndez, Miguel.
+A1  - Oña, Samara.
+A1  - Ayala, Sebastián.
+Y1  - 2017///
+KW  - Machine learning
+KW  - cómputo de alto rendimiento
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/جهانی, مسگری - 1383 - No Titleجی آی اس به زبان ساده.pdf
+ER  - 
+TY  - CONF
+T1  - Inductive Machine Learning with Image Processing for Objects Detection of a Robotic Arm with Raspberry PI
+A1  - Garzón-Quiroz, Mao Queen.
+Y1  - 2019///
+KW  - Machine learning
+PB  - Ecuador
+JF  - Conferencia internacional sobre tendencias tecnológicas
+VL  - 895
+SP  - 590
+EP  - 604
+CY  - Ecuador
+SN  - 978-3-030-05531-8
+DO  - 10.1007/978-3-030-05532-5
+UR  - http://link.springer.com/10.1007/978-3-030-05532-5
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Garz - 2019 - Technology Trends.pdf
+ER  - 
+TY  - CONF
+T1  - A multi-class extension for case-based reasoning applied to medical problems: A first approach
+A1  - Viveros-Melo, D.
+A1  - Ortega-Adarme, M.
+A1  - Blanco-Valencia, X.
+A1  - Castro-Ospina, A E.
+A1  - Murillo-Rendón, S.
+A1  - Peluffo-Ordóñez, D H.
+Y1  - 2016///
+KW  - Machine learning
+KW  - high dimensionality
+KW  - variable selection
+JF  - INCISCOS 2016 International Conference on Information Systems and Computer Science
+SP  - 220
+EP  - 224
+UR  - http://ingenieria.ute.edu.ec/inciscos/assets/s6/INCISCOS_2016_paper_47.pdf
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Viveros-Melo et al. - 2016 - A multi-class extension for case-based reasoning applied to medical problems A first approach.pdf
+N2  - Case-based reasoning (CBR) is a problem solving approach that uses past experience to tackle current problems. CBR has demonstrated to be appropriate for working with unstructured domains data or difficult knowledge acquisition situations, as it is the case of the diagnosis of many diseases. Some of the trends and opportunities that may be developed for CBR in the health science are oriented to reduce the number of features in highly dimensional data, as well as another important focus on how CBR can associate probabilities and statistics with its results by taking into account the concurrence of several ailments. In this paper, in order to adequately represent the database and to avoid the inconveniences caused by the high dimensionality, a number of algorithms are used in the preprocessing stage for performing both variable selection and dimension reduction procedures. Subsequently, we make a comparative study of multi-class classifiers. Particularly, four classification techniques and two reduction techniques are employed to make a comparative study of multi-class classifiers on CBR.
+ER  - 
+TY  - CONF
+T1  - Non-Spontaneous Saccadic Movements Identification in Clinical Electrooculography Using Machine Learning
+A1  - Becerra-García, R. A.
+A1  - García-Bermúdez, Rodolfo.
+A1  - Joya-Caparrós, Gonzalo.
+A1  - Fernández-Higuera, A.
+A1  - Velázquez-Rodríguez, C.
+A1  - Velázquez-Mariño, M.
+A1  - Cuevas-Beltrán, F. R.
+A1  - García-Lagos, F.
+A1  - Rodríguez-Labrada, R.
+Y1  - 2015///
+KW  - Machine learning
+KW  - Saccade identification
+KW  - classification algorithms
+JF  - 13ª Conferencia Internacional de Trabajo sobre Redes Neuronales Artificiales, IWANN 2015
+VL  - 90
+SP  - 56
+EP  - 68
+SN  - 9783319192215
+DO  - 10.1007/978-3-319-19222-2
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Rojas, Joya, Catala - 2015 - Advances in Computational Intelligence 13th International work-conference on artificial neural networks,.pdf
+N2  - This paper proposes an approach for rule base design that considers most of information obtained from a data set. The proposed method provides fuzzy rules where each consequent label has an associated weight which is determined in a probabilistic way. The paper also presents the method's formalization using crisp and fuzzy relations and their association with the probability theory. The resulting fuzzy system is applied to five instances of a classification problem and its performance is compared to that obtained from a fuzzy classifier provided by the classical Wang-Mendel method. The results show that the proposed design method outperforms the comparison approach. © 2012 Springer-Verlag.
+ER  - 
+TY  - CONF
+T1  - Where to park? Architecture and implementation of an empty parking lot, automatic recognition system
+A1  - Ávalos, Héctor.
+A1  - Gómez, Estevan.
+A1  - Guzmán, Diego.
+A1  - Ordóñez-Camacho, Diego.
+A1  - Román, Jéssica.
+A1  - Taipe, Oswaldo.
+Y1  - 2019///
+KW  - Machine Learning
+KW  - computer vision
+KW  - distributed system
+KW  - free parking slots
+KW  - intelligent parking.
+JF  - Enfoque UTE
+VL  - 10
+IS  - 1
+SP  - 54
+EP  - 64
+DO  - 10.29019/enfoqueute.v10n1.445
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Ávalos et al. - 2019 - Where to park Architecture and implementation of an empty parking lot, automatic recognition system.pdf
+N2  - The traffic congestion present in practically every city has, among its increasing factors, the unavailability of enough parking spaces. A typical driver invests a considerable part of the total trip time looking for a free space where to park his vehicle; in many cases, this leads to delays and the consequent discomfort due to the undesired consequences of the generated tardiness. For this problem it is possible to find partial palliative solutions, minimizing the time spent searching for parking by applying Internet of Things techniques, oriented to smart cities and buildings. This research has been focused on finding an appropriate computer architecture that will allow the implementation of a distributed system, which, thanks to the use of computer vision and machine learning techniques, detects free parking spaces inside a parking lot, and provides real time information to the driver, allowing him to go as directly as possible to a vacant parking space.
+ER  - 
+TY  - CONF
+T1  - An empirical comparison of DCNN libraries to implement the vision module of a Danger Management System
+A1  - Puente-C, Sianna.
+A1  - Madrid, Cindy E.
+A1  - Realpe, Miguel.
+A1  - Vintimilla, Boris X.
+Y1  - 2017///
+KW  - Fall detection
+KW  - Head detection
+KW  - Machine learning
+KW  - MatConvNet
+KW  - TensorFlow
+JF  - ACM International Conference Proceeding Series
+SP  - 60
+EP  - 65
+SN  - 9781450352321
+DO  - 10.1145/3094243.3094255
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Puente et al. - 2017 - An empirical comparison of DCNN libraries to implement the vision module of a Danger Management System.pdf
+N2  - In this paper we discuss the feasibility of using a DCNN to implement Fall and Head detection for a Danger Management System. For this propose, AlexNet and Inception-v3 models in MatConvNet and TensorFlow libraries were used for training new DCNNs with Fine-Tuning method. Additionally, a new public dataset was created, which includes diverse fall poses, as well as, top views of people walking in a scene. © 2017 Association for Computing Machinery.
+ER  - 
+TY  - CONF
+T1  - Estimation of presentations skills based on slides and audio features
+A1  - Luzardo, Gonzalo.
+A1  - Guamán, Bruno.
+A1  - Chiluiza, Katherine.
+A1  - Castells, Jaime.
+A1  - Ochoa, Xavier.
+Y1  - 2014///
+KW  - Machine learning
+KW  - Multimodal Learning Analytics
+KW  - Presentation skills
+JF  - MLA 2014 - Proceedings of the 2014 ACM Multimodal Learning Analytics Workshop and Grand Challenge, Co-located with ICMI 2014
+SP  - 37
+EP  - 44
+SN  - 9781450304887
+DO  - 10.1145/2666633.2666639
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Luzardo et al. - 2014 - Estimation of presentations skills based on slides and audio features.pdf
+N2  - This paper proposes a simple estimation of the quality of student oral presentations. It is based on the study and analysis of features extracted from the audio and digital slides of 448 presentations. The main goal of this work is to automatically predict the values assigned by professors to different criteria in a presentation evaluation rubric. Machine Learning methods were used to create several models that classify students in two clusters: high and low performers. The models created from slide features were accurate up to 65%. The most relevant features for the slide-base models were: number of words, images, and tables, and the maximum font size. The audio-based models reached up to 69%of accuracy, with pitch and filled pauses related features being the most significant. The relatively high degrees of accuracy obtained with these very simple features encourage the development of automatic estimation tools for improving presentation skills.
+ER  - 
+TY  - CONF
+T1  - Presentation skills estimation based on video and kinect data analysis
+A1  - Echeverría, Vanessa.
+A1  - Avendaño, Allan.
+A1  - Chiluiza, Katherine.
+A1  - Vásquez, Aníbal.
+A1  - Ochoa, Xavier.
+Y1  - 2014///
+KW  - Machine learning
+KW  - Presentation skills
+JF  - MLA 2014 - Proceedings of the 2014 ACM Multimodal Learning Analytics Workshop and Grand Challenge, Co-located with ICMI 2014
+SP  - 53
+EP  - 60
+SN  - 9781450304887
+DO  - 10.1145/2666633.2666641
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Echeverría et al. - 2014 - Presentation skills estimation based on video and kinect data analysis.pdf
+N2  - This paper identifies, by means of video and Kinect data, a set of predictors that estimate the presentation skills of 448 individual students. Two evaluation criteria were predicted: eye contact and posture and body language. Machine-learning evaluations resulted in models that predicted the performance level (good or poor) of the presenters with 68% and 63% of correctly classified instances, for eye contact and postures and body language criteria, respectively. Furthermore, the results suggest that certain features, such as arms movement and smoothness, provide high significance on predicting the level of development for presentation skills. The paper finishes with conclusions and related ideas for future work.
+ER  - 
+TY  - CONF
+T1  - Towards a (semi)-automatic reference process to support the reverse engineering and reconstruction of software architectures
+A1  - Guamán, Daniel.
+A1  - Pérez, Jennifer.
+A1  - Díaz, Jessica.
+Y1  - 2018///
+KW  - Machine learning
+KW  - Reverse engineering
+KW  - Software metrics
+JF  - ACM International Conference Proceeding Series
+SN  - 9781450364836
+DO  - 10.1145/3241403.3241414
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Guamán, Pérez, Díaz - 2018 - Towards a (semi)-automatic reference process to support the reverse engineering and reconstruction of so.pdf
+N2  - Association for Computing Machinery. The purpose of this work is to define a reference process to support the software architecture reconstruction in a systematic and automatic way. This process aims to be applied to the construction and maintenance phases within Agile methodologies and Continuous Integration processes, where the quick and continuous test and changes at design or coding level can generate an increase or reduction of technical debt and green software levels. This process is based on phases, activities, techniques, and strategies proposed by related works about reverse engineering and software architecture reconstruction. Specifically, it integrates all of them to create a complete process; which may be a reference process by providing green and technical debt-oriented recommendations during the decision-making of software architecture at design level or coding level. This recommendation phase will be based on algorithms and techniques of Machine Learning, that will allow to apply the process in an Agile way and taking into account previous knowledge.
+ER  - 
+TY  - CONF
+T1  - Mining theory-based patterns from Big data: Identifying self-regulated learning strategies in Massive Open Online Courses
+A1  - Maldonado-mahauad, Jorge.
+A1  - Pérez-sanagustín, Mar.
+A1  - Kizilcec, René F.
+A1  - Munoz-gama, Jorge.
+Y1  - 2017///
+PB  - Elsevier Ltd
+JF  - Computers in Human Behavior
+VL  - 80
+DO  - 10.1016/j.chb.2017.11.011
+UR  - https://doi.org/10.1016/j.chb.2017.11.011
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Maldonado-mahauad et al. - 2017 - SC.pdf
+ER  - 
+TY  - CONF
+T1  - Cluster Analysis of Finger-to-nose Test for Spinocerebellar Ataxia Assessment
+A1  - Velázquez-Mariño, M.
+A1  - Atencia, Miguel.
+A1  - García-Bermúdez, Rodolfo.
+A1  - Pupo-Ricardo, Daniel.
+A1  - Becerra-García, R. A.
+A1  - Veláquez-Pérez, Luis.
+A1  - Sandoval, Francisco.
+Y1  - 2015///
+JF  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 9095
+IS  - 1
+SP  - 524
+EP  - 535
+SN  - 9783319192215
+DO  - 10.1007/978-3-319-19222-2
+L1  - file:///Users/miguelcabrera/Desktop/Velazquez&EtAl(2015)Cluster-analysis-of-finger-to-nose-test-for-spinocerebellar-ataxia-assessment.pdf
+ER  - 
+TY  - THES
+T1  - Predicting Crime Using Data Mining
+A1  - Saltos-Bernal, Ginger Viviana.
+A1  - Cocea, Mihaela.
+Y1  - 2014///
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Viviana, Bernal - 2014 - University of Portsmouth School of Computing Postgraduate Programme MSc Degree in Forensic Information Technolo.pdf
+ER  - 
+TY  - CONF
+T1  - Análisis de la accesibilidad con enfoque semántico de un portal de servicios académicos para nivel universitario
+A1  - Segarra-Faggioni, Verónica.
+A1  - Mora-Arciniegas, María.
+A1  - Tenesaca-Luna, Gladys.
+Y1  - 2016///
+KW  - Accesibilidad Web
+KW  - Portales Web
+JF  - 2016 11th Iberian Conference on Information Systems and Technologies (CISTI)
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Arciniegas, Luna - 2016 - un portal de servicios académicos para nivel.pdf
+ER  - 
+TY  - CONF
+T1  - Feature selection of seismic waveforms for long period event detection at Cotopaxi Volcano
+A1  - Lara-cueva, R A.
+A1  - Benítez, D S.
+A1  - Carrera, E V.
+A1  - Ruiz, M.
+A1  - Rojo-Álvarez, José Luis.
+Y1  - 2016///
+KW  - Feature extraction and selection
+KW  - Machine learning
+KW  - Seismic event detection
+KW  - Volcano seismic classification
+KW  - k-NN and decision trees
+PB  - Elsevier B.V.
+JF  - Journal of Volcanology and Geothermal Research
+VL  - 316
+SP  - 34
+EP  - 49
+DO  - 10.1016/j.jvolgeores.2016.02.022
+UR  - http://dx.doi.org/10.1016/j.jvolgeores.2016.02.022
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Lara-cueva et al. - 2016 - Feature selection of seismic waveforms for long period event detection at Cotopaxi Volcano.pdf
+ER  - 
+TY  - CONF
+T1  - Modelo para predecir el rendimiento académico basado en redes neuronales y analítica de aprendizaje
+A1  - Salgado-Reyes, Nelson.
+A1  - Beltrán-Morales, Jéfferson.
+A1  - Guaña-Mora, Javier.
+A1  - Escobar-Teran, Charles.
+A1  - Nicolalde-Rodriguez, Damian.
+A1  - Chafla-Altamirano, Gustavo.
+Y1  - 2018///
+KW  - Model
+KW  - big data.
+KW  - learning analytics
+KW  - redes neuronales
+JF  - RISTI - Revista Ibérica de Sistemas e Tecnologias de Informação
+SP  - 258
+EP  - 267
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Reyes et al. - 2018 - Modelo para predecir el rendimiento académico basado en redes neuronales y analítica de aprendizaje.pdf
+ER  - 
+TY  - CONF
+T1  - Implementación de una base de datos relacional difusa. Caso práctico: tutoría académica
+A1  - Saguay-Chafla, Ciro Napoleon.
+A1  - Proaño-Escalante, Rodrigo Arturo.
+A1  - Jácome-Canching, Segundo Bolívar.
+A1  - Aguirre-Pinto, Denisse Carolina.
+Y1  - 2016///
+KW  - Fuzzy relational data bases
+KW  - Implementation of fuzzy relational data bases
+KW  - fuzzy logic
+JF  - INCISCOS 2016 International Conference on Information Systems and Computer Science
+VL  - 1
+SP  - 77
+EP  - 91
+UR  - http://ingenieria.ute.edu.ec/enfoqueute/
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Saguay-Chafla et al. - 2016 - Implementación de una base de datos relacional difusa. Caso práctico tutoría académica.pdf
+N2  - Resumen: El presente artículo describe el proceso de implementación de la base de datos relacional difusa para el caso práctico de las tutorías académicas de la Facultad de Ciencias de la Ingeniería de la Universidad Tecnológica Equinoccial (UTE).Para la implementación se utilizó como metodología la arquitectura ANSI-SPARC de bases de datos, la misma que abstrae la información en niveles, en el nivel externo se obtuvo los requerimientos funcionales, en el nivel conceptual se obtuvo el modelo relacional difuso, para lograr este modelo se realizó la transformación de los datos difusos a través de modelos matemáticos usando la herramienta Fuzzy-Lookup y en el nivel físico se implementó la base de datos relacional difusa, además se desarrolló una interfaz en lenguaje Java por medio de la cual se ingresan datos y se realizan consultas a la base de datos relacional difusa para verificar su funcionamiento. Palabras clave: Base de datos relacional difusa; Implementación de bases de datos relacional difusa; lógica difusa. Abstract: This paper describes the process of implementation of a diffused relational database in the practical case of the academic tutorials of the Faculty of Engineering Sciences of the Equinoctial Technological University (UTE). For the implementation, the ANSI-SPARC database architecture was used as the methodology, which abstracts the information into levels, at the external level the functional requirements were obtained, at the conceptual level, the diffused relational model was obtained. To achieve this model, we performed the transformation of the diffuse data through mathematical models using the Fuzzy-Lookup tool and at the physical level the diffused relational database was implemented. In addition, an user interface was developed using Java through which data is entered and queries are made to the diffused relational database to verify its operation.
+ER  - 
+TY  - THES
+T1  - Aplicación de Algoritmos Genéticos en la Ingeniería del Software: Revisión Sistemática del Estado del Arte
+A1  - Quizhpe-Villavicencio, Miltón D.
+A1  - Ordoñez-Ordoñez, Pablo F.
+Y1  - 2017///
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Milton Quizhpe - 2017 - Aplicación de Algoritmos Genéticos en la Ingeniería del Software Revisión Sistemática del Estado del Arte.pdf
+ER  - 
+TY  - CONF
+T1  - A Literature Review for Recommender Systems Techniques Used in Microblogs
+A1  - Terán, Luis
+A1  - Mensah, Alvin Oti
+A1  - Estorelli, Arianna
+Y1  - 2018///
+JF  - Expert Systems with Applications
+VL  - 103
+SP  - 63
+EP  - 73
+DO  - 10.1016/j.eswa.2018.03.006
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Terán, Mensah, Estorelli - 2018 - A literature review for recommender systems techniques used in microblogs.pdf
+N2  - Online social networks (OSNs) are receiving great attention from the research community for different purposes, such as event detection, crisis management, and forecasting, among others. The increasing amount of research conducted with social networks opens the need for a classification methodology regarding trends in the field. This work does not cover all types of social networks; it focuses on the analysis of microblogs as a data source in the context of recommender systems (RSs). The main goal of this work is to provide authors with insights on the trends of academic literature reviews in the proposed context and to provide a comparison of different research approaches. The authors searched for up-to-date research papers related to RS methods using microblogs within a time period of five years, from 2012 to January 2018. Starting from 2012, a significant amount of research related to the subject field of RSs was conducted and identified by the authors of this work. After the filtering process, 39 papers were finally selected from journals and conferences in four different databases related to Internet technologies (i.e., IEEE, ACM, Science Direct, and Springer). A general classification presented in this work is then adopted and used to describe state-of-the-art social network recommendation approaches for microblogging. This work can be extended in the future to include novel methodologies and trends of RSs for microblogs.
+ER  - 
+TY  - CONF
+T1  - Data analytics and BI framework based on collective intelligence and the Industry 4.0
+A1  - Lopez, Cindy Pamela.
+A1  - Segura, Marco.
+A1  - Santórum, Marco.
+Y1  - 2019///
+KW  - Big Data
+KW  - Business Intelligence
+KW  - Collective Intelligence
+KW  - Data Analytics
+KW  - Industry 4.0
+JF  - ACM International Conference Proceeding Series
+SP  - 93
+EP  - 98
+SN  - 9781450361033
+DO  - 10.1145/3322645.3322667
+L1  - file:///Users/miguelcabrera/Library/Application Support/Mendeley Desktop/Downloaded/Lopez, Segura, Santórum - 2019 - Data analytics and bi framework based on collective intelligence and the industry 4.0.pdf
+N2  - Now a days, business is subject to frequent changes in operations because of the continuous alignment of changes in strategies and business environment due to rapid changes in human and business resources considering the complexity of businesses. Currently, Business Intelligence is way to handle these frequent changes and risks. In the past BI was so complex thing for business to adopt and only big businesses were able to implement this but now BI is becoming simpler and even web based on cloud, so it is easy even for small and medium business to adopt this to do business in a smart way. The purpose of this literature review is develop a framework of BI and Data Analytics using the collective intelligence, new technologies of the Industry 4.0 paradigm in order to provide a service with low cost and intelligence service for small and medium business which don‟t have budget to pay an expensive license and hiring an expert to can design the analysis to improve productivity and profitability. © 2019 Association for Computing Machinery.
+ER  - 
